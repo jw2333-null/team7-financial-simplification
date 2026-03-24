@@ -1,0 +1,38 @@
+# ──── PDFs (too large for Git — re-download from URLs in docs/data_collection_log.md) ────
+data/raw/**/*.pdf
+
+# ──── Python ────
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# ──── Environment ────
+.env
+.venv/
+venv/
+env/
+
+# ──── OS files ────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ──── IDE ────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ──── Large model files (download via Hugging Face instead) ────
+*.bin
+*.safetensors
+*.pt
+*.onnx
+
+# ──── Temporary files ────
+*.tmp
+*.log
