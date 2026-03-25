@@ -1,0 +1,1417 @@
+Being regulated by the
+Financial Conduct Authority
+Guide for
+consumer
+credit firms
+www.fca.org.uk/consumer-credit
+Updated
+February
+2016
+
+Guide for consumer credit firms
+Being regulated by the
+Financial Conduct Authority
+Guide for consumer
+credit firms
+Contents
+P6 FCA rules and guidance
+P17 Getting authorised
+P31 Being supervised by the FCA
+P43 Enforcement
+P46 A nnex: Controlled functions for
+consumer credit
+www.fca.org.uk/consumer-credit FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 33
+
+Guide for consumer credit firms
+Introduction
+This guide is for consumer credit
+firms1, in particular those that are
+new to being regulated by us. It
+provides an overview of how we will
+work with you and your obligations
+as an FCA regulated firm.
+We have an overarching strategic objective to ensure that the
+relevant markets function well. This is embodied in our three
+operational objectives:
+• to secure an appropriate degree of protection for consumers
+• to protect and enhance the integrity of the UK financial system
+• to promote effective competition in the interests of consumers
+These objectives are the foundation for our approach to regulating
+firms. In our relationship with you we want to ensure that fair
+treatment of consumers is at the heart of your business, and that
+you do not adversely affect market integrity and competition.
+1 This guide is relevant both to firms active in consumer lending, as well as those involved in debt activities.
+4 Financial Conduct Authority
+
+Guide for consumer credit firms
+Our engagement with firms takes place through four main
+activities:
+• creating rules that firms must follow (through our Policy work)
+• considering whether firms should be authorised by us for
+particular activities (led by our Authorisations Division)
+• ongoing supervision of regulated firms’ activities (Supervision
+Division)
+• the use of our enforcement powers in instances where we
+identify egregious misconduct (Enforcement Division)
+This guide is intended to include a summary of the regulatory
+requirements and is not a substitute for reading the applicable
+rules and guidance. In the event that there are differences
+between this guide and the applicable rules and guidance, the
+rules and guidance take precedence.
+We want to ensure that fair treatment of
+consumers is at the heart of your business,
+and that you do not adversely affect
+market integrity and competition.
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 55
+
+Guide for consumer credit firms
+FCA rules and guidance
+The framework
+Firms carrying on credit-related regulated activities, as outlined in
+the Perimeter Guidance Manual (PERG)2, must follow certain rules
+about how they manage their businesses and treat their customers.
+We have the power to make rules that are legally binding on firms.
+Where we find problems, we will generally seek to work with
+firms to resolve issues voluntarily in the first instance. However, if
+we can’t agree a voluntary solution, we may rely on our formal
+powers in order to limit ongoing risks to consumers.
+We can also issue guidance on our rules and high-level Principles.
+Guidance indicates possible ways for a firm to comply with a rule,
+or gives information about how we will interpret a rule in certain
+circumstances. Guidance is not binding and failing to follow it
+does not necessarily mean that a rule has been breached.
+We set out our rules and guidance in the FCA Handbook.3 In
+the Handbook text, words in italics are defined in a glossary of
+terms.4 More information about how to use the Handbook is in a
+reader’s guide.5
+The rules and guidance applicable to consumer credit firms are
+primarily in the Consumer Credit Sourcebook (CONC)6, but other
+Handbook provisions are also relevant as set out below.
+2 Our Perimeter Guidance Manual (PERG) gives guidance on which activities require FCA authorisation:
+https://www.handbook.fca.org.uk/handbook/PERG/
+3 FCA Handbook: https://www.handbook.fca.org.uk/handbook/
+4 FCA Handbook glossary: https://www.handbook.fca.org.uk/handbook/glossary/
+5 FCA Handbook Reader’s Guide: http://www.fca.org.uk/your-fca/documents/handbook/handbook-readers-guide
+6 Consumer Credit Sourcebook (CONC): https://www.handbook.fca.org.uk/handbook/CONC/
+6 Financial Conduct Authority
+
+Guide for consumer credit firms
+Most of the new rules which we made for consumer credit firms
+when we took over regulating these firms in April 2014 were based
+on existing standards. Many of the obligations were contained
+in the Consumer Credit Act (CCA), in secondary legislation
+which flowed from the CCA, and in Office of Fair Trading (OFT)
+Guidance, so should be familiar to firms. We have also added
+some new rules, in particular in relation to high-cost short-term
+credit (HCSTC), debt management and credit broking, and have
+amended others.
+A summary of the rules made in the lead-up to the transfer of
+consumer credit regulation in April 2014 can be found in our
+policy statement PS14/37, available on the FCA website.
+Additional rules on HCSTC and credit broking were made in
+PS14/168 and PS14/189 respectively, and further changes to CONC
+rules and guidance, following consultation in February 2015
+(CP15/610), were made in PS15/23.11
+Chapter 1 of CONC sets out the application of the rules, and
+CONC 1.2.2R requires firms to ensure that their employees and
+agents comply with CONC, and to take reasonable steps to ensure
+that other persons acting on their behalf also comply.
+Lenders and credit brokers should also be aware of the
+provisions of the CCA and secondary legislation that have
+remained in force, pending our report on our review of these
+provisions to be provided to HM Treasury before 1 April 2019.
+These include rules on pre-contract credit information, credit
+agreements, copy documents, statements and notices, and
+termination and early settlement.
+7 Policy Statement (PS14/3) Final rules for consumer credit firms:
+https://www.fca.org.uk/news/ps14-3-final-rules-for-consumer-credit-firms
+8 Policy Statement (PS14/16) Detailed rules for the price-cap on high-cost short-term credit – including feedback on CP14/10
+and final rules: http://www.fca.org.uk/news/ps14-16-detailed-rules-on-the-price-cap-on-high-cost-short-term-credit
+9 Policy Statement (PS14/18) Credit broking and fees: http://www.fca.org.uk/news/ps14-18-credit-broking-and-fees
+10 Consultation Paper (CP15/6) Consumer credit – proposed changes to our rules and guidance:
+http://www.fca.org.uk/news/cp15-06-consumer-credit-consultation-paper
+11 Policy Statement (PS15/23) Consumer credit – feedback on CP15/6 and final rules and guidance:
+http://www.fca.org.uk/news/ps15-23-consumer-credit-feedback-on-cp15-6-and-final-rules-and-guidance
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 77
+
+Guide for consumer credit firms
+Firms will also be subject to other general consumer protection
+legislation, including the Consumer Protection from Unfair
+Trading Regulations and the Unfair Terms in Consumer Contracts
+Regulations (which was replaced by the Consumer Rights Act on
+1 October 2015).
+How we make rules
+As noted above, since taking over consumer credit regulation from
+the OFT, we have made a number of changes to our rules and
+guidance. In most cases we have done so following consultation
+and cost benefit analysis. In the case of credit broking, however,
+we introduced new rules in December 2014 without prior
+consultation, on the grounds that the delay involved in consulting
+would be prejudicial to the interests of consumers.
+When consulting, we typically allow around three months for
+responses. We then publish a policy statement setting out the
+feedback we received, and our response to this, at the same time
+as publishing final rules and guidance
+We keep the CONC rules under review in the light of experience
+of supervising the consumer credit market, and may make further
+changes to address areas of harm to consumers, or to clarify or
+amend the rules to ensure they clearly reflect the policy intention
+or respond to issues raised by firms or other stakeholders.
+Firms are encouraged to sign up to consumer credit email updates12
+on our website so they can keep up to date with the proposed
+changes to our rules and guidance.
+How the Handbook is structured
+The FCA Handbook13 is broken down into blocks. Each block
+contains a number of modules (which are called sourcebooks and
+12 Sign up for consumer credit update emails: https://www.the-fca.org.uk/sign-email-updates-consumer-credit
+13 FCA Handbook website: https://www.handbook.fca.org.uk/
+8 Financial Conduct Authority
+
+Guide for consumer credit firms
+manuals). Each module contains chapters and sections, which
+provide our rules.
+Each module has an abbreviated title, such as ‘PRIN’ or ‘CONC’.
+Our high-level standards apply (with some exceptions) to all
+firms. Other modules contain specific rules for particular types
+of firm – these are known as specialist sourcebooks. There are
+also modules which set out how our regulatory processes work,
+and regulatory guides which provide guidance on matters such as
+financial crime, unfair contract terms and what permissions firms
+may need.
+The high level standards which apply to consumer credit firms
+are:
+Principles for Businesses (PRIN).14 This sets out the fundamentals
+which we expect all regulated firms to meet. The eleven principles
+are listed and more detail is given below.
+Threshold Conditions (COND).15 This sets out minimum
+conditions which all firms must meet if they wish to be authorised.
+Once authorised, firms must continue to meet these standards on
+an ongoing basis.
+General Provisions (GEN).16 This sets out some of the standards
+that apply to all firms in terms of their interaction with us, including
+statutory disclosure statements and use of the FCA name or logo.
+Senior Management Arrangements, Systems and Controls
+(SYSC).17 This sets out how we expect senior management in firms
+to take responsibility for the running and oversight of their firm,
+as well as the systems, controls and compliance arrangements
+that should be in place.
+14 Principles for Businesses (PRIN): https://www.handbook.fca.org.uk/handbook/PRIN/
+15 Threshold Conditions (COND): https://www.handbook.fca.org.uk/handbook/COND/
+16 General Provisions (GEN): https://www.handbook.fca.org.uk/handbook/GEN/
+17 Senior Management Arrangements, Systems and Controls: https://www.handbook.fca.org.uk/handbook/SYSC/
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 99
+
+Guide for consumer credit firms
+Statements of Principle and Code
+of Practice for Approved Persons The Principles for
+(APER).18 This sets out the standards Businesses are
+that we require of individuals who the fundamental
+hold ‘controlled functions’ in a firm. obligations that
+It also outlines a code of practice for firms must comply
+how to comply. with at all times.
+The Fit and Proper Test for
+Approved Persons (FIT).19 This sets
+out the criteria that we consider when assessing the fitness and
+propriety of a candidate for a controlled function (see also the
+‘Getting Authorised’ section below).
+Fees Manual (FEES).20 This provides details around firms’ liability
+to pay fees.
+Principles for Businesses
+The Principles for Businesses (PRIN) are the fundamental
+obligations that firms must comply with at all times. They apply
+to all authorised firms and those with interim permission. We can
+take enforcement action if they are breached.
+18 Statements of Principle for Approved Persons: https://www.handbook.fca.org.uk/handbook/APER/
+19 The Fit and Proper test for Approved Persons: https://www.handbook.fca.org.uk/handbook/FIT/1/1
+20 Fees Manual (FEES): https://www.handbook.fca.org.uk/handbook/FEES/
+10 Financial Conduct Authority
+
+Guide for consumer credit firms
+1. Integrity – A firm must conduct its business with integrity.
+2. S kill, care and diligence – A firm must conduct its business with due skill,
+care and diligence.
+3. Management and control – A firm must take reasonable care to organise
+and control its affairs responsibly and effectively, with adequate risk
+management systems.
+4. F inancial prudence – A firm must maintain adequate financial resources.
+5 Market conduct – A firm must observe proper standards of market
+conduct.
+6. C ustomers’ interests – A firm must pay due regard to the interests of its
+customers and treat them fairly.
+7. Communications with clients – A firm must pay due regard to the
+information needs of its clients, and communicate information to them in a
+way which is clear, fair and not misleading.
+8. C onflicts of interest – A firm must manage conflicts of interest fairly,
+both between itself and its customers and between a customer and
+another client.
+9. Customers: relationships of trust – A firm must take reasonable care
+to ensure the suitability of its advice and discretionary decisions for any
+customer who is entitled to rely upon its judgment.
+10. Clients’ assets – A firm must arrange adequate protection for clients’
+assets when it is responsible for them.
+11. Relations with regulators – A firm must deal with its regulators in an
+open and cooperative way, and must disclose to the appropriate regulator
+appropriately anything relating to the firm of which that regulator would
+reasonably expect notice.
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 1111
+
+Guide for consumer credit firms
+Treating Customers Fairly
+Of key relevance to all regulated firms is Principle 6 – ‘A firm must
+pay due regard to the interests of its customers and treat them
+fairly’. We often refer to this as our ‘treating customers fairly’
+principle.
+This principle sits behind many of our detailed rules (including
+those in CONC). There are six consumer outcomes that firms
+should strive to achieve to ensure fair treatment of customers.
+These remain core to what we expect from firms.
+• Outcome 1: Consumers can be confident that they are dealing
+with firms where the fair treatment of customers is central to
+the corporate culture.
+• Outcome 2: Products and services marketed and sold in the
+retail market are designed to meet the needs of identified
+consumer groups and are targeted accordingly.
+• Outcome 3: Consumers are provided with clear information
+and are kept appropriately informed before, during and after
+the point of sale.
+• Outcome 4: Where consumers receive advice, the advice is
+suitable and takes account of their circumstances.
+• Outcome 5: Consumers are provided with products that
+perform as firms have led them to expect, and the associated
+service is of an acceptable standard and as they have been led
+to expect.
+• Outcome 6: Consumers do not face unreasonable post-sale
+barriers imposed by firms to change product, switch provider,
+submit a claim or make a complaint.
+12 Financial Conduct Authority
+
+Guide for consumer credit firms
+A firm must pay due regard to the
+interests of its customers and
+treat them fairly.
+Senior management arrangements and systems and controls
+Principle 3 states ‘A firm must take reasonable care to organise and control its
+affairs responsibly and effectively, with adequate risk management systems’.
+The systems and controls rules in SYSC describe what we will expect, in practice,
+from firms when complying with Principle 3.
+Broadly, the rules cover:
+• robust governance arrangements
+• skills, knowledge and expertise of staff
+• outsourcing responsibilities
+• record-keeping
+• conflicts of interest
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 1133
+
+Guide for consumer credit firms
+The types of systems and controls a firm must have
+in place reflect the nature, scale and complexity of We would not
+the firm’s business and the risk the activity may expect a small
+pose to consumers. lender dealing with
+a small number of
+For example, we would not expect a small lender
+customers to have
+dealing with a small number of customers to have
+the same scale
+the same scale of systems and controls as a major
+of systems and
+lender or a large debt collection business.
+controls as a major
+lender or a large
+You should refer to SYSC 1 to check how the
+debt collection
+requirements apply to your firm. A core set of
+business.
+rules apply to all firms, with further rules applying
+depending on the activity undertaken.
+General provisions
+The general provisions (in GEN) contain a number of rules relating
+to mainly administrative duties. They include:
+• a ban on firms claiming or implying that their business is
+endorsed by the FCA
+• situations when a firm cannot comply with our rules in an
+emergency
+• how to interpret our Handbook of rules and guidance
+(including noting that every provision in the Handbook must
+be interpreted in light of its purpose)
+• how firms authorised by us must describe their regulatory status
+• restrictions on using our name or logo
+• a ban on insurance against financial penalties imposed on a
+firm’s employees, directors or partners
+14 Financial Conduct Authority
+
+Guide for consumer credit firms
+Complaints
+The Disputes Resolution: Complaints module (DISP)21 sets out
+the detailed requirements for handling consumer complaints
+against firms and the Financial Ombudsman Service
+arrangements (including for complaints before the transfer of
+regulation to the FCA).
+Firms also have to comply with our rules to record, report and,
+where appropriate, publish certain complaints information.
+Prudential and client money rules
+For debt management firms, we have rules requiring firms to hold
+certain levels of capital (prudential rules) and rules on holding
+their customer’s money (client money rules). These are set out in
+CONC 10 and CASS 11 (CASS is the Client assets module of our
+Handbook).
+Other sections of the Handbook
+In addition to the high-level standards listed above, consumer
+credit firms should have regard to other sections of the Handbook,
+which provide guidance on our regulatory procedures and on
+matters such as dispute resolution, financial crime and fairness in
+contractual terms. Some of the sections which may be of greatest
+interest to firms are:
+Supervision (SUP)22 – sets out our supervisory powers. Firms
+will be particularly interested in SUP15 and SUP16 which set out
+firms’ obligations to report key information, events and changes
+to the FCA.
+Decision Procedure and Penalties Manual (DEPP)23 – sets
+how our decision-making processes operate.
+21 The Dispute Resolution: Complaints (DISP): https://www.handbook.fca.org.uk/handbook/DISP/
+22 Supervision (SUP): https://www.handbook.fca.org.uk/handbook/SUP/
+23 Decision Procedures and Penalties Manual (DEPP): https://www.handbook.fca.org.uk/handbook/DEPP/
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 1155
+
+Guide for consumer credit firms
+The Enforcement Guide (EG)24 – sets out how our formal
+enforcement procedures operate.
+Financial Crime: a guide for firms (FC)25 – outlines how firms
+can prevent financial crime.
+Perimeter Guidance Manual (PERG) – provides guidance on
+which permissions firms need to hold.
+The Unfair Contract Terms Regulatory Guide (UNFCOG)26 –
+outlines the regulation of unfair contract terms.
+24 The Enforcement Guide (EG): https://www.handbook.fca.org.uk/handbook/EG/
+25 Financial Crime: a guide for firms (FC): https://www.handbook.fca.org.uk/handbook/FC/
+26 The Unfair Contract Terms Regulatory Guide (UNFCOG): https://www.handbook.fca.org.uk/handbook/UNFCOG/
+16 Financial Conduct Authority
+
+Guide for consumer credit firms
+Getting
+authorised
+This section looks at the FCA
+authorisation process and how it will
+work in practice for your firm.
+On 1 April 2014 we started accepting applications for authorisation
+from new consumer credit firms.
+Firms that were previously regulated by the OFT were given
+interim permission to carry on consumer credit activities and
+allocated set application periods to send in their application.
+We did this in stages to manage the thousands of applications
+that we anticipated. We wrote to firms to tell them when they
+should apply.
+Authorisation is our equivalent of the OFT consumer credit
+licensing regime. Firms that want to carry on regulated activities
+must apply for authorisation (unless they are exempt or an
+appointed representative).
+Our approach is largely based on whether you need to apply for
+full permission or can benefit from limited permission.
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 1177
+
+Guide for consumer credit firms
+Broadly, firms that need to apply for full permission will be subject
+to more checks and have more conditions to meet at authorisation
+and when carrying out consumer credit-related activities.
+The broad categories are27:
+Limited Consumer hire (such as tool and car hire firm)
+permission
+Credit broking (other than by a domestic premises supplier) where
+activities
+the sale of goods or non-financial services is the main business, and
+broking is a secondary activity to help finance the purchase of those
+goods or services (such as certain motor dealerships and high-street
+retailers that introduce customers to a finance provider)
+Credit broking in relation to the Green Deal
+Credit broking in relation to hire or hire purchase agreement
+Lending where the sale of goods or non-financial services is the
+main business, and there is no interest or charges and the agree-
+ments are not hire-purchase or conditional sale agreements (such as
+certain golf clubs or gyms allowing deferred payment for member-
+ship)
+Local authorities lending within the scope of the Consumer Credit
+Directive
+Not-for-profit bodies providing debt counselling and debt ad-
+justing and/or credit information services (such as Citizens Advice)
+Limited permission activities (other than not-for-profit bodies and
+for credit information services) do not cover activities that relate to
+agreements secured by legal mortgages on land
+A firm that carries on the lending, secondary broking and/or consum-
+er hire activities under a limited permission can also apply to carry on
+limited permission debt counselling, debt adjusting and credit infor-
+mation services.
+27 The contents of this table is not a comprehensive list of the regulated activities. To analyse whether activities are lower or
+higher risk, firms should review the legislation or seek legal advice.
+18 Financial Conduct Authority
+
+Guide for consumer credit firms
+Full Credit broking where introducing customers to lenders is a main
+permission business activity
+activities
+Credit broking where the sale of goods or services takes place
+in the customer’s home (what is known as ‘domestic premises
+supplier’)
+Debt administration and debt collection
+Debt counselling and debt adjusting on a commercial basis
+Consumer credit lending which is not limited permission (such
+as personal loans, credit cards, overdrafts, pawnbroking, hire-pur-
+chase or conditional sale agreements)
+Providing credit information services
+Providing credit reference agency services
+Peer-to-peer lending
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 1199
+
+Guide for consumer credit firms
+Consumer credit
+firms go through
+a similar route to
+getting authorised
+Our aim is to ensure that firms wanting to offer
+as other financial
+consumer credit products and services are well run
+services firms.
+by fit and proper persons and have appropriate
+business models.
+All firms have to demonstrate that they meet and will continue
+to meet our minimum standards to become authorised – known
+as our threshold conditions. Our approach to assessing some of
+the threshold conditions is modified for limited permission firms.
+The threshold conditions are:
+Threshold Condition
+Legal status
+Firms must have a certain legal status to carry out certain regulated activities. (Does
+not apply to FCA-only regulated firms, i.e. those that are not also regulated by the
+Prudential Regulation Authority).
+Location of offices
+If the firm is a body corporate constituted under UK law, the firm’s ‘mind and
+management’, e.g. directors, compliance function, audit function, should be in the UK.
+Effective supervision
+A firm must be capable of being effectively supervised by us. Matters which
+may affect this include the complexity of its regulated activities, the products it
+offers and how the business is organised. In most cases, firms should have a UK
+establishment. This will be considered on a case-by-case basis.
+Appropriate resources
+The firm must demonstrate appropriate resources relative to the nature and scale
+of the business. This requirement applies not just to financial resources but also
+to other resources which are essential to effectively running the firm, such as
+the knowledge and competence of staff and the assets of the business, such as
+premises and technology.
+20 Financial Conduct Authority
+
+Guide for consumer credit firms
+Suitability
+The firm must demonstrate the competence and ability of management, and that
+the firm’s affairs are conducted in an appropriate manner regarding the interests of
+consumers and the integrity of the UK financial system.
+Business model
+The firm’s strategy for doing business must be suitable for its regulated activities
+and have regard to the FCA’s operational objectives.
+Once your firm is authorised, you will also have to meet
+requirements on:
+• approved persons
+• controllers
+• regulatory reporting
+• complaints reporting and publication
+For debt management firms, there are additional requirements
+relating to prudential standards and client assets.
+Prudential standards also apply to peer-to-peer lending platforms,
+as set out in our policy statement on crowd funding.
+Our authorisation team will assess your application
+in a way that is proportionate to the size and nature
+of your business and the risks to consumers.
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 2211
+
+Guide for consumer credit firms
+Getting ready for FCA authorisation
+Consumer credit firms go through a similar route to getting
+authorised as other financial services firms.
+You need to complete a set of application forms that are relevant
+to your business type. This includes details of who works at the
+firm, your approved persons, your controllers, your business
+model and key financial information.
+We will ask you to demonstrate how your firm is set up to meet
+our requirements.
+This includes your business plan, setting out your business aims and
+objectives and how you organise your resources to achieve them. If
+you don’t have a business plan, or haven’t revised your current one
+for some time, now is the time to start working on this.
+Once you are ready to apply, what do you need to do?
+You will need to complete your application on our online system,
+Connect.28 We will assess your application to see if you meet the
+standards we require and will make a decision within:
+• six months of receiving your complete application
+• 12 months of receiving an incomplete application (or six months
+from when an incomplete application becomes complete)
+If your application is incomplete or needs further explanation,
+we will ask you to clarify it or to provide further information or
+documentation, as appropriate. For example, where there are
+inconsistent or missing answers.
+If you need to apply for full permission you will need to give us more
+details about your business than if you apply for limited permission.
+28 Our online application system, Connect: http://www.fca.org.uk/firms/systems-reporting/connect
+22 Financial Conduct Authority
+
+Guide for consumer credit firms
+We recommend that you watch our video guides29 to completing
+authorisation applications on Connect.
+Our authorisation team will assess your application in a way that
+is proportionate to the size and nature of your business, and the
+potential risks to consumers. We may have more contact with you
+if you are applying for full permission and less if you are applying
+for limited permission.
+What happens next?
+The consumer credit authorisation section30 of our website gives
+more information about becoming authorised.
+If you have registered for interim permission, and you make an
+application for authorisation within your allocated application
+period, you can continue to trade under your interim permission
+until your application for authorisation has either been
+granted or rejected. If you do not apply within your allocated
+application period then your interim permission will lapse at the
+end of that period.
+Our website also includes sample application forms31 so you can
+see what we will ask you to include when you apply.
+29 Connect application system video guides:
+https://www.the-fca.org.uk/authorisation-applications-video-guides-consumer-credit
+30 Consumer credit authorisation website pages: www.fca.org.uk/cc-authorisation
+31 Consumer credit sample application forms: https://www.the-fca.org.uk/authorisation-consumer-credit/apply
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 2233
+
+Guide for consumer credit firms
+If you did not have a consumer credit licence on 31 March 2014,
+or you did not notify us that you wished to receive interim
+permission, you can apply for authorisation at any point but you
+cannot carry on any credit-related regulated activities, for which
+you require authorisation, until we approve your application.
+Fees
+We are funded by the firms we regulate through fees. We aim to cover
+our costs in a way that is as fair and efficient as possible and we consult
+on our fees each year.
+Firms have to pay a fee when they apply for authorisation and then annual
+fees for every year they are authorised.
+The fee that a firm has to pay will be proportionate to the size of the
+firm’s business and the type of authorisation.
+Firms that can benefit from limited permission will have lower fees than
+those of higher-risk firms that need full permission.
+More information about application and annual fees32 is available on
+our website.
+32 Consumer credit fees and levies: https://www.the-fca.org.uk/fees-and-levies-consumer-credit
+24 Financial Conduct Authority
+
+Guide for consumer credit firms
+Approved persons
+An approved person is an individual we approve Being an approved
+to perform one or more activities on behalf of an person brings with
+authorised firm. These are activities that we refer it several important
+to as ‘controlled functions’. responsibilities.
+These include
+At least one individual in all consumer credit firms a duty to be
+(except most not-for-profit debt advice bodies and aware of, and
+some sole traders) must be approved by us. This comply with,
+individual will be the ‘approved person’ for your our regulatory
+firm. requirements and
+understand how
+they apply to each
+What we look for controlled function.
+We can approve an individual only where we are
+satisfied that they are fit and proper to perform
+the controlled function(s) they apply for.
+Considering a candidate’s fitness and propriety, we look at:
+• honesty (including pro-actively contacting the regulator and disclosing to us
+any instance in which things have gone wrong or changes are being made
+to your business)
+• integrity and reputation
+• competence and capability
+• financial soundness
+What approved persons need to do
+Being an approved person brings with it several important responsibilities. These
+include a duty to be aware of, and comply with, our regulatory requirements and
+understand how they apply to each controlled function. Specifically, approved
+persons must:
+• meet and comply on an ongoing basis with our Fit and Proper test for
+Approved Persons
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 2255
+
+Guide for consumer credit firms
+• comply with the Statements of Principle and the Code of
+Practice for Approved Persons. These describe the conduct
+that we require and expect of the individuals we approve
+• report to the firm and to us any matter that may affect the
+firm’s ongoing fitness and propriety
+Controlled functions
+Twelve controlled functions potentially apply to consumer credit
+firms, depending on their business and legal status. The number
+of roles your staff will need to be approved for will depend on the
+type of credit activities you intend to carry on, the legal status of
+your business and the permissions you require.
+Firms with limited permission will normally only require one approved
+person. (See table 1 on page 46 for the list of controlled functions.)
+You can appoint one individual to be an approved person for
+more than one controlled function in your firm, provided you can
+demonstrate that individual has the ability to manage multiple
+roles. We will consider the application in the context of the scale
+of your firm and the activities you plan to undertake.
+An individual can be an approved person for more than one firm,
+provided that each takes appropriate responsibility for ensuring
+the individual manages the risks involved.
+Controlled functions need to be carried out by approved persons
+who are closely involved in the running of the firm. It is unlikely you
+will be able to outsource these roles and still meet the standards
+we expect, although we will assess this on a case-by-case basis.
+However, you can outsource resources for guidance and support
+for approved persons.
+There is more information about approved persons33 on our
+website.
+33 Consumer credit approved persons: https://www.the-fca.org.uk/approved-persons
+26 Financial Conduct Authority
+
+Guide for consumer credit firms
+Principals and appointed representatives
+An appointed representative is a firm that carries on regulated
+activities under the supervision of another firm that we authorise.
+Under this arrangement, if you are the authorised firm (known as
+the ‘principal’) you will be responsible for ensuring your appointed
+representative meets our requirements. We will not have a direct
+relationship with the appointed representative. You will not be
+able to have appointed representatives for consumer credit while
+you have interim permission – you must wait until you become
+authorised.
+There must be a written contract between you as the principal and
+your appointed representative that documents the arrangement
+between you.
+As principal, you will take full responsibility for ensuring your
+appointed representatives comply with our rules. Before entering
+an agreement with an appointed representative, you will need to
+carry out sufficient checks on the firm or individual. These are to
+ensure that the appointed representative is financially stable and
+that they have achieved, and are maintaining, a satisfactory level
+of competence.
+As a principal you must notify us of any firm you appoint as
+an appointed representative. Where applicable, you must also
+approve individuals carrying out a controlled function within an
+appointed representative firm, before it carries out regulated
+activities.
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 2277
+
+Guide for consumer credit firms
+Once you agree to be a principal, you are accountable for a
+range of activities that your appointed representatives carry out,
+including:
+• the products they sell and broker
+• any advice they give to customers, and
+• ensuring they deliver the six ‘treating customers fairly’
+outcomes in the same way as an authorised firm would
+More information about appointed representatives and principals34
+is available on our website.
+Appointed representatives’ responsibilities
+If you are an appointed representative you will need to understand
+and comply with the regulatory requirements for the business you
+conduct. A business cannot be an appointed representative for a
+regulated activity if:
+• it does not have a contract with a principal firm covering its
+regulated business
+• its principal firm has not accepted responsibility in writing for
+the regulated activity the business undertakes
+• the firm that the business wants to act as its principal holds
+only an interim permission for the relevant credit activity
+• it operates a credit reference agency
+• it provides credit (unless the credit is free of interest and any
+other charges)
+• it is authorised for another activity
+34 A ppointed representatives and principals: https://www.the-fca.org.uk/appointed-representatives-and-principals-
+consumer-credit
+28 Financial Conduct Authority
+
+Guide for consumer credit firms
+The exceptions to this are:
+• a firm with interim permission for a credit activity may also be
+an appointed representative for an activity regulated under
+the Financial Services Markets Act that is not covered by its
+interim permission
+• a firm with limited permission for certain credit activities will
+be able to be an appointed representative for other regulated
+activities, eg a motor dealer with limited permission to carry
+on credit broking can also be an appointed representative
+insurance intermediary
+As an appointed representative you must allow the principal access
+to your staff, premises and records so the principal can carry out
+the necessary oversight and monitoring of your business.
+A firm that intends to operate as an appointed representative in the
+longer term has to make arrangements with an authorised firm.
+An appointed representative is a firm that
+carries on regulated activities under the
+supversion of another firm that we authorise.
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 2299
+
+Guide for consumer credit firms
+Unauthorised firms
+We actively police firms that are not authorised by us but offer regulated
+financial services in the UK. We have a dedicated department tackling
+unauthorised business activity and we take steps to actively warn consumers35
+about these firms.
+Unauthorised businesses pose a significant risk to consumers and distort
+the market for firms that are working hard to do the right thing and remain
+compliant with regulatory requirements.
+We take action against firms and individuals that carry on regulated activities in
+the UK without our authorisation. We use a wide range of enforcement powers
+including criminal prosecutions, action through the civil courts (injunctions, asset
+freezes, winding-up and bankruptcy) and publishing warnings against specific
+firms and individuals.
+Firms or individuals that carry out unauthorised business do so in breach of
+section 19 of the Financial Services and Markets Act 2000 (FSMA). This is a
+criminal offence carrying a maximum prison sentence of two years, a fine,
+or both.
+Even if authorised, firms must ensure that their authorisation includes
+permission for all regulated activities they carry out.
+Agreements made by unauthorised lenders, or made as a result of introductions
+by unauthorised brokers, may also be unenforceable against the consumer
+under sections 26A and 27 of FSMA.
+You can report an unauthorised consumer credit firm to us by calling our
+Contact Centre on 0300 500 0597 or using our online reporting form.36
+We have a register37 of the firms we regulate on our website.
+35 Protect yourself from unauthorised firms: http://www.fca.org.uk/consumers/protect-yourself/unauthorised-firms
+36 Unauthorised consumer credit reporting form: http://www.fca.org.uk/consumers/protect-yourself/report-an-
+unauthorised-firm/consumer-credit-reporting-form
+37 Financial Services Register: http://www.fca.org.uk/firms/systems-reporting/register
+30 Financial Conduct Authority
+
+Guide for consumer credit firms
+Being supervised
+by the FCA
+We take an active approach to
+monitoring and engaging with the
+firms we regulate. We call the way
+we monitor the market and work
+with individual firms ‘supervision’.
+This section looks at the FCA supervision model, and how it will
+work in practice with your firm. Our approach is proportionate,
+and we concentrate our resources on the greatest potential risks
+to our objectives. Firms with full permission can expect a more
+intensive supervisory approach than firms with limited permission.
+We aim to protect consumers and ensure market integrity. We
+want to know how your business is really run, to find where
+problems flow from and address them at the source. We are
+interested in your financial health and how you aim to make
+money, both now and in the future, and how your culture and
+strategies support fairness for consumers and markets. We will
+examine the risks your business poses in these areas, and how
+you respond to these risks.
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 3311
+
+Guide for consumer credit firms
+Our model supports the promotion of effective The extent of your
+competition in the interests of consumers. If we engagement with
+find firms, groups, products or behaviours that our supervision
+could have an adverse effect on competition, we division will
+will consider the most appropriate action to take. partly depend on
+whether your firm
+is classified as a
+Our general approach to supervision
+‘fixed portfolio’
+Firms are expected to meet our standards at all
+firm or a ‘flexible
+times. The extent of your engagement with our
+portfolio’ firm.
+supervision division will partly depend on your
+firm’s classification. Firms which are designated
+as ‘fixed portfolio’ firms will be allocated a named individual
+supervisor, and proactively supervised using a firm-specific
+continuous assessment approach. The majority of credit firms
+will be ‘flexible portfolio’ firms, which are supervised through a
+combination of market-based and thematic work, programmes of
+communication and engagement and education activity aligned
+with the key risks identified for the sector in which the firms
+operate. These firms use our Customer Contact Centre as their
+first point of contact with us.
+Firms will be informed following authorisation and subsequently
+on an ongoing basis, when relevant, what supervisory relationship
+and approach they will be subject to.
+Regardless of your classification, we can contact you at any point
+to gather information and address risks we find in your firm. We
+use a range of tools to ensure compliance but we’ll aim to resolve
+problems cooperatively without our powers if possible.
+Supervision tends to take one of the following forms. All of these
+are applicable to both fixed and flexible portfolio firms.
+32 Financial Conduct Authority
+
+Guide for consumer credit firms
+Proactive supervision
+This is where we proactively assess a particular firm or firms
+to understand, mitigate and prevent risks. The basis of our
+assessment will generally be whether firms have the interests of
+customers and the integrity of the market at the heart of their
+business. We decide which firms we will proactively assess on
+the basis of risk; however, that doesn’t necessarily mean that we
+are acting on specific intelligence about the firms in question.
+We can proactively supervise firms on an individual basis, or we
+may assess a number of firms across an issue, product or market
+at once.
+Reactive supervision
+When we become aware of significant risks to consumers, or
+when damage has already been done, we will respond swiftly
+and proportionately.
+We can identify risks or problems through a number of sources,
+including information from your firm, data analysis, whistle-
+blowers and consumer complaints. We will also work closely with
+external stakeholders such as local authority trading standards
+services (LATSS), the Department for Enterprise, Trade and
+Investment Northern Ireland (DETINI) and consumer bodies as
+sources of information.
+You have a duty to tell us about any risks or problems that emerge
+in relation to your firm that may have an impact on our objectives.
+You can find out more about this duty in SUP15.
+If we find a problem, we’ll seek to work with you to resolve it
+voluntarily. If we can’t agree a voluntary solution, we may rely on
+our formal powers in order to limit ongoing risks to consumers.
+Where we are aware the same risk is evident in more than one firm,
+we can engage with several firms at once to ensure that all firms
+deal with the risk, consumers are protected and poor behaviour
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 3333
+
+Guide for consumer credit firms
+is rectified, with compensation being paid to
+consumers if necessary. We place
+significant value
+on whistleblowing
+Whistleblowing
+alerts. We take
+One of the ways we receive information about
+each case seriously
+wrongdoing in firms is from employees or former
+and will act upon
+employees. We take each case seriously and will
+the intelligence
+collect and act upon the intelligence received from
+received wherever
+whistleblowers wherever appropriate. We place
+appropriate.
+significant value on whistleblowing alerts and
+seek to provide as much useful feedback to the
+whistleblower as possible, within the restrictions
+we are bound by. More information about whistleblowing38 is
+available on our website.
+Thematic Reviews
+We look across the market to analyse current events and
+investigate potential causes of poor outcomes for consumers and
+market participants. Where we find issues which exist or may exist
+in a number of firms, we will consider carrying out a thematic
+review to examine the relevant issue in a number of firms at once.
+We will be transparent about the areas we are interested in and
+why. When we decide that action is needed to reduce a risk to
+consumers or the integrity of financial markets, we will address
+our response to all firms in the relevant market, not just those
+that have been involved in the assessment work, and expect you
+to consider and act as necessary on our findings.
+Follow-up action could include changing our rules or guidance or
+publishing consumer communications. We will generally publish
+the results of our thematic work and use it to highlight good
+practices as well as areas of concern.
+38 Learn more about whistleblowing: https://www.the-fca.org.uk/whistleblowing
+34 Financial Conduct Authority
+
+Guide for consumer credit firms
+Specialist supervision teams
+We have a number of specialist teams in our supervision division
+who support our front-line supervisors.
+Prudential supervision
+Our approach aims to minimise the harm to consumers and
+market stability when firms experience financial stress or fail.
+Our main focus is on debt management firms, as they are subject
+to specific prudential and client money requirements. These are
+set out in CONC 10 and CASS 11. Peer-to-peer lenders are also
+subject to specific prudential and client money requirements.
+Financial promotions
+The principle that communications should be clear, fair and
+not misleading is the backbone of our approach to financial
+promotions, such as advertising and other marketing.
+We have a dedicated team that will proactively monitor promotions
+across all media, as well as consider referrals and intelligence from
+others. If we consider that a financial promotion does not meet
+our requirements, we will have a number of tools available:
+• where we see a non-compliant financial promotion, we will
+contact the firm, asking them to amend or withdraw it
+• for repeat breaches, we may also ask them to provide us
+with a formal attestation (a signed statement) that they have
+effective governance in place for the approval of compliant
+financial promotions
+• in cases where the firm does not co-operate, we can issue a
+supervisory notice banning the promotion
+• in the worst cases, enforcement action may also be appropriate
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 3355
+
+Guide for consumer credit firms
+You can report misleading promotions39 to us
+using the steps outlined on our website. Our approach to
+the assessment of
+terms under the
+Unfair terms in consumer contracts regulations is set
+We are responsible for monitoring firms’ out in the UNFCOG
+compliance with the Unfair Terms in Consumer module in our
+Contracts Regulations. If we decide to take action Handbook.
+in relation to the fairness of terms in standard
+consumer contracts, we can apply for an injunction
+under the regulations to prevent a firm relying on unfair terms. We
+also have the power to accept an undertaking from a firm that
+it will no longer use terms that we consider unfair. We publish
+undertakings from firms on our website.
+We may also consider carrying out thematic work, looking at
+contract terms generally, for example reviewing a range of
+firms’ contracts for a particular product. This would consider the
+fairness and clarity of firms’ contract terms under the regulations,
+alongside firms’ practices under wider regulatory requirements.
+Our approach to the assessment of terms under the regulations is
+set out in the UNFCOG module in our Handbook.
+Financial crime and intelligence
+All consumer credit firms are required to put in place systems
+and controls to mitigate the risk that they may be used to further
+financial crime. We look at the measures firms take to monitor,
+detect and prevent financial crime risk effectively. We also collect
+and act upon the intelligence we receive about financial crime risks,
+for example from whistle-blowers, and take each individual case
+seriously.
+Since 1 April 2014 we have been responsible for supervising how
+consumer credit firms that are subject to the Money Laundering
+Regulations comply with them.
+39 Financial promotions and adverts: https://www.the-fca.org.uk/financial-promotions-and-adverts
+36 Financial Conduct Authority
+
+Guide for consumer credit firms
+We have published a guide for firms40 which sets out what firms can do to reduce
+their financial crime risk. The Joint Money Laundering Steering Group41 is also a
+useful resource for firms.
+How we carry out supervision
+We have a number of powers which we can use to supervise firms, for example
+powers to require firms to provide us with information. In the first instance, we
+prefer to work with firms on a voluntary basis.
+Whatever our reason for interacting with your firm, there are a wide range of
+ways in which we may engage with you. For example, we might send you a
+request for information and documents about your firm; we may meet you or
+interview particular individuals within your firm; or we may also review customer
+case files to understand your customers’ experiences when dealing with you. In
+some cases we may wish to visit your premises and observe your operations in
+practice.
+If we find failings in your firm, we will engage with you to resolve them and we
+may ask you to take immediate action to prevent any further harm occurring in
+the meantime. If the issue is serious we may seek formal commitments from you
+that you will do this in a timely and effective way. For example, we might seek
+an attestation from senior decision-makers within your firm, or we may discuss
+the voluntary imposition of requirements on your permissions or a voluntary
+amendment of your permissions.
+In some cases we may require a Skilled Persons Review (also known as a Section
+166 review as the power to require these reviews is set out in s166 of FSMA). We
+use these powers to obtain an independent expert view of aspects of a firm’s
+activities that cause us concern or where we require further analysis. Further
+detail on when we may use these powers can be found in SUP 5.
+Supervisors will generally aim to resolve issues in firms without the use of our formal
+powers. However, where appropriate, supervisors will refer firms to enforcement
+for severe and/or repeated breaches of our standards and expectations.
+40 Handbook: FC Financial Crime: A guide for firms: https://www.handbook.fca.org.uk/handbook/FC/
+41 Money Laundering Regulations Steering Group: http://www.jmlsg.org.uk/
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 3377
+
+Guide for consumer credit firms
+Market studies
+Market studies are a tool we use to examine structural issues in markets.
+These are led by our Competition Department. Market studies analyse the
+effectiveness of competition in different markets, and identify areas where
+we can intervene to promote more effective competition.
+The purpose of a market study is to understand whether competition
+is working effectively in the interests of consumers. As part of a market
+study we may ask firms for information and data about their activities. The
+purpose of this is to build a picture of what is happening in the market as a
+whole, rather than to supervise whether your firm is meeting our regulatory
+standards. However, if the information you provide does reveal a concern
+about standards within your firm we may follow up with supervisory action.
+Regulatory Reporting
+We collect data from all regulated firms on a regular basis. This
+is a key part of our approach to supervision. The information we
+collect is an important aid to our work: it identifies trends and
+emerging risks and helps us to monitor compliance.
+All regulated firms are required to report information to us. This
+needs to be provided online on a regular basis – typically six
+monthly or annually depending on the nature and size of your
+business.
+The data we ask for is monstly financial information and
+information about your transaction volumes. The reporting forms
+which apply to consumer credit firms are set out in the table
+below. Which forms apply to you will depend on what regulated
+activities you carry out. Firms with limited permission (other than
+large not-for-profit debt advice bodies) will only be required to
+submit form CCR007.
+There are some specific and more frequent reporting requirements
+for firms carrying our particular activities. Home collected credit
+firms and HCSTC lenders are required to send us product sales
+38 Financial Conduct Authority
+
+Guide for consumer credit firms
+data on the loans that they make on a quarterly basis. Credit
+broking firms that charge fees must notify us every three months
+of their domain (website address) names. This is via reporting
+form CCR008.
+Complaints
+Firms with full permission need to report details of complaints
+either six monthly or annually. Six monthly reporting applies
+unless the firm only holds permission to carry on credit-related
+regulated activities and revenue arising from such activities is £5
+million or less a year.
+These requirements do not apply to firms with limited permission
+unless the firm is a large not-for-profit debt advice body. A firm
+with limited permission (except large not-for-profit debt advice
+bodies) is required to submit information to us about the number
+of complaints it has received in relation to credit-related regulated
+activities under the reporting requirements in SUP 16.12.
+Submitting your reports
+GABRIEL42 (GAthering Better Regulatory Information ELectronically)
+is our online regulatory reporting system for the collection, validation
+and storage of firms’ regulatory data. One you are authorised you
+will need to register on GABRIEL. The system will select for you the
+reports that your firm needs to complete, based on the information
+you have provided to us. You will receive an email reminder when
+your report is due. More information and guidance about reporting
+is available on our website.43
+Regulatory reporting is essential and firms not completing
+their reporting requirements by the due data are subject to an
+administrative fee of £250. If a firm still does not complete and
+submit its return, we may also take enforcement action. Ultimately,
+this could result in a firm losing its authorisation.
+42 GABRIEL Reporting: http://www.fca.org.uk/firms/systems-reporting/gabriel
+43 Systems and reporting: http://www.fca.org.uk/firms/systems-reporting
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 3399
+
+Guide for consumer credit firms
+Reporting Which firms does this form
+form apply to? Content overview
+Financial All firms that are not already Key financial figures
+data submitting financial data and do not including capital, assets,
+(CCR001) have limited permission (but applies to liabilities, exposures,
+large not-for-profit debt advice bodies income and profit.
+subject to the prudential requirements
+that apply to debt management firms)
+or permission only to carry on peer-to-
+peer lending platform activity.
+Volumes All firms that do not have limited For each activity a firm
+(CCR002) permission (but applies to large not- undertakes, revenue,
+for-profit debt advice bodies subject to customer and transaction
+the prudential requirements that apply volume, and an indication
+to debt management firms). of the main method used
+to generate income
+Lenders All firms with permission to enter into Breakdown of value and
+(CCR003) a regulated credit agreement as a amount of loans, arrears
+lender or to exercise the lender’s rights and interest rates.
+and duties under a regulated credit
+agreement.
+Debt Debt management firms and large not- Capital requirement and
+management for-profit debt advice bodies subject to capital resources. Number
+(CCR004) the prudential requirements that apply of debt management
+to debt management companies. plans ending early.
+Client money Debt management firms and not-for- Highest balance and
+and assets profit debt advice bodies. number of clients.
+(CCR005) Amount of client
+money held for longer
+than 5 days.
+Debt Firms undertaking debt collecting Breakdown of number
+collection including peer-to-peer lending and value of debts by
+(CCR006) platforms that collect debts due under stage of placement.
+loans they facilitate.
+Key data Firms with limited permission, other Credit-related income,
+(CCR007) than an authorised professional total revenue, number
+firm, or a not-for-profit debt advice of transactions and
+body, that is subject to full reporting complaints, main credit-
+requirements. related regulated activity.
+40 Financial Conduct Authority
+
+Guide for consumer credit firms
+Making changes to your business
+Once your firm is authorised, if you wish to make changes which
+affect the basis on which your original application for authorisation
+was approved, you will need to apply to us for prior approval. These
+changes include:
+• a change in the regulated activities you wish to carry out such
+that you require different permission
+• a change in the ownership of your firm
+• a change in the legal status of your firm
+• changes to your approved persons
+• cancelling your permissions because you no longer intend to
+carry out regulated activities
+You are required to simply notify us in the case of less significant
+changes, for example:
+• changes to your contact details
+• changes to your appointed representatives (including the
+appointment and removal of appointed representatives)
+More information is available on our website.44
+Notifying us when serious events occur
+You are required to nofity us of any matter that has, or potentially
+has, a serious regulatory impact, that we would reasonably expect
+to be made aware of, for example:
+• significant breaches of our standards
+• civil, criminal or disciplinary proceedings against your firm
+44 Change of legal status: https://www.the-fca.org.uk/change-legal-status
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 4411
+
+Guide for consumer credit firms
+• fraud, errors or other irregularities
+• insolvency, bankruptcy and “winding up” of the business
+• material changes to your business model
+Notifications should be made either by email or post and should
+include a SUP 15 Notification Form45 which can be downloaded
+from the Handbook website.
+Notification forms can be emailed as attachments to firm.
+queries@fca.org.uk or posted to our Head Office address
+marked for the attention of the Customer Contact Centre.
+Fees
+Other than credit unions and community finance
+A firm with interim
+organisations with an annual income under
+permission does
+£250,000, and all not-for-profit debt advice
+not have to pay
+bodies, all firms have to pay an annual fee (known
+an annual fee for
+as a periodic fee). A firm with interim permission
+consumer credit
+does not have to pay an annual fee for consumer
+until it becomes
+credit until it becomes authorised.
+authorised.
+Your annual fee invoice will include fees and
+levies on behalf of other regulatory bodies, such
+as the Financial Ombudsman Service and Money Advice Service.
+We set the fees payable at the end of June and issue invoices from
+July each year. You should pay your annual fee within 30 days of
+the invoice date; otherwise you may incur a late payment charge.
+45 SUP 15 Notification Form: https://www.handbook.fca.org.uk/handbook/SUP/15/Ann4.html
+42 Financial Conduct Authority
+
+Guide for consumer credit firms
+Enforcement
+Enforcement works alongside our
+other regulatory tools, such as
+setting new policy standards, market
+studies into competition, controlling
+the gateway through authorisations
+and monitoring on-going conduct
+through supervision.
+We have wide ranging powers to tackle breaches of our rules and
+other legal requirements, including the CCA and FSMA. The tools
+we have at our disposal include:
+• withdrawing a firm’s authorisation
+• banning individuals from carrying on regulated activities
+• suspending firms or individuals from undertaking regulated
+activities
+• fining firms or individuals who breach our rules or commit
+market abuse
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 4433
+
+Guide for consumer credit firms
+• applying to the Court for injunctions and restitution orders
+• bringing criminal prosecutions to tackle financial crime, such
+as insider dealing or unauthorised business
+Our strategy is to use these powers to achieve ‘credible deterrence’.
+Credible deterrence means that we try to improve standards
+across the market by showing there are meaningful consequences
+to breaking our rules.
+The factors we consider when determining which cases to pursue
+are set out in our referral criteria.
+We follow a set enforcement procedure and have published
+a flowchart46 on our website that explains how a typical
+enforcement case works where the case is dealt with through our
+administrative powers under FSMA.
+This includes several procedures in contrast to those followed by
+the OFT. For example, our standard practice is to send a Notice of
+Appointment of Investigators to the firm or individual concerned
+in most circumstances, and to use statutory powers to require
+individuals to answer questions in interview. You can read about
+these in Chapter 4 of our Enforcement Guide in our Handbook.
+We will publish information about an enforcement case in a
+Final Notice or Decision Notice where we consider it appropriate.
+Publishing outcomes and notices is important to ensure our
+decision making is transparent. It informs the public and helps
+maximise the deterrent effect of enforcement action.
+All of our enforcement decisions must be confirmed by a
+Regulatory Decisions Committee (RDC), which is made up of
+industry practitioners to represent the public interest.
+46 FCA Enforcement Information Guide: https://www.fca.org.uk/static/documents/enforcement-information-guide.pdf
+44 Financial Conduct Authority
+
+Guide for consumer credit firms
+Our staff will submit their proposal and the supporting evidence
+to the RDC. The RDC will review the evidence and, in most cases,
+seek the views of the relevant firm or individual, before coming
+to a decision.
+The RDC is independent from the FCA team that has conducted
+an investigation or considered an application for authorisation.
+This is required by law and helps to ensure that decisions are fair.
+More information about how the RDC works47 is on our website.
+Trading standards services
+We will work closely with the LATSS and DETINI and have signed
+a Memorandum of Understanding with them to set out formally
+how we will work together. We aim to cooperate by sharing
+information where appropriate and where we legally can.
+This exchange of information will help us regulate consumer
+credit firms generally and ensure that we take a consistent
+and coordinated approach in relation to issues such as unfair
+contract terms. It will also help identify potential poor conduct
+in relation to consumer credit, which we can take forward in our
+supervision work.
+We will also work together to ensure that we take a consistent and
+coordinated approach in relation to potential regulatory breaches.
+47 FAQ: How the RDC works: http://www.fca.org.uk/about/structure/committees/rdc-faqs
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 4455
+
+Guide for consumer credit firms
+Annex: Controlled functions for
+consumer credit
+Table 1: Controlled functions
+Significant
+influence
+functions Responsibilities Who does this function apply to?
+Governing Direct the firm’s Applies to individuals performing these
+functions affairs, for functions in all authorised firms except:
+(known as CF1 example a CEO
+• firms with limited permission
+to CF6) or non-executive
+director. • some authorised professional firms in
+respect of their non-mainstream regulated
+credit activity (this may include, for
+example, law firms that on an incidental
+basis recover consumer credit related debts
+on behalf of their clients)
+• sole traders
+Also apply to appointed representatives
+(except introducer appointed representatives
+and sole traders which do not have to have
+any approved persons). If the appointed
+representative is carrying on the regulated
+activity as a secondary activity rather than as
+a principal activity (for example, an appointed
+representative motor dealer that is carrying
+on credit broking as a secondary activity) it
+only has to have one individual approved for
+a governing function for that activity.
+46 Financial Conduct Authority
+
+Guide for consumer credit firms
+Significant
+influence
+functions Responsibilities Who does this function apply to?
+Apportionment Ensure that Applies to individuals performing this function
+and oversight the significant in the following firms:
+function business
+• firms with limited permission (except for
+(known as CF8) responsibilities
+not-for profit debt advice bodies)
+are clearly and
+appropriately • some authorised professional firms in
+divided among respect of their non-mainstream regulated
+the directors credit activity.
+and senior
+managers of the It does not apply to sole traders unless they
+firm and that employ people who have to be approved
+they oversee the persons.
+implementation Most limited permission firms are required
+and maintenance to have one individual approved for the
+of appropriate apportionment and oversight function
+systems and but will not be required to have any other
+controls individuals approved in respect of their credit-
+related activities.
+Compliance Oversight of the Applies to individuals performing this function
+oversight firm’s regulatory in the following authorised firms (including
+function compliance and sole traders that employ staff involved in
+(known as reporting to the the carrying on of the regulated business
+CF10) governing body activities):
+about that.
+• debt management businesses
+• credit repair businesses.
+Money The firm’s money Applies to individuals performing this function
+laundering laundering in authorised firms (including sole traders that
+reporting reporting. employ staff involved in the carrying on of the
+function regulated business activities) that are covered
+(known as by the Money Laundering Regulations. It does
+CF11) not apply to ‘limited permission lenders’.
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 4477
+
+Guide for consumer credit firms
+Significant
+influence
+functions Responsibilities Who does this function apply to?
+Systems Reporting to Applies to individuals performing these
+and controls the governing functions in all authorised firms except:
+function body of a firm
+• firms with limited permission
+(known as on how it
+CF28) complies with its • some authorised professional firms in
+internal systems respect of their non-mainstream regulated
+and controls credit activity
+requirements
+and the firm’s Although this function may apply to sole
+risk exposure. traders, it is unlikely to do so other than in
+circumstances in which the sole trader has
+a substantial number of employees involved
+in the carrying on of regulated business
+activities.
+Responsibility for this function can be
+assumed by a person already approved to
+undertake a governing function other than
+the non-executives. Individuals in firms
+regulated by both the FCA and the PRA
+would need to apply to the PRA for approval
+for the systems and controls function.
+Significant Only applies Applies to individuals performing these
+management to firms where functions in all authorised firms except:
+function significant
+• firms with limited permission
+(known as responsibility
+CF29) is given to a • some authorised professional firms in
+senior manager respect of their non-mainstream regulated
+of a relatively credit activity
+substantial
+business. Although this function may apply to sole
+traders, it is unlikely to do so other than in
+circumstances in which the sole trader has
+a substantial number of employees involved
+in the carrying on of regulated business
+activities.
+We anticipate that relatively few consumer
+credit firms will need approval for an
+individual to perform this function, as in most
+firms, the individuals approved for the above
+functions are likely to exercise significant
+influence over the firms’ business.
+48 Financial Conduct Authority
+
+Guide for consumer credit firms
+Significant
+influence
+functions Responsibilities Who does this function apply to?
+CASS Person Applies to a director or senior manager in
+operational responsible for a large debt management firm (including a
+oversight the firm’s client sole trader) and a large not-for-profit debt
+function asset oversight. advice bodies. In each case ‘large’ means the
+(known as firm holds a minimum of £1 million of client
+CF10a) money at some point during the last calendar
+year or projects that it will hold during this
+time.
+Smaller profit-seeking debt management
+firms and not-for-profit debt advice bodies
+(holding less than £1 million) need a director
+or senior manager to be responsible for
+overseeing the firm’s client assets.
+For profit-seeking debt management firms,
+this person must be someone who has been
+approved for a ‘significant influence function’
+(most likely a governing function).
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 4499
+
+Guide for consumer credit firms
+FFiinnaanncciiaall CCoonndduucctt AAuutthhoorriittyy 5511
+
+This guide is for consumer credit firms
+in particular those that are new to being
+regulated by us. It provides a high-level
+summary of how we will regulate you.
+© Financial Conduct Authority 2015
+25 The North Colonnade
+Canary Wharf
+London E14 5HS
+Telephone: 0800 111 6768
+Website: www.fca.org.uk
+All rights reserved

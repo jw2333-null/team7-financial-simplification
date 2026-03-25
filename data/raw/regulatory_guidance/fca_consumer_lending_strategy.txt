@@ -1,0 +1,359 @@
+20 March 2024
+Dear Chief Executive Officer,
+FCA strategy for Consumer Lending
+The Consumer Lending market is essential to the UK economy, providing a vital service for consumers,
+including millions in vulnerable circumstances. In this letter we focus on three portfolios in the Consumer
+Lending market: High-Cost Lending, Mainstream Consumer Credit Lending and Credit Unions. When we
+refer to ‘Consumer Lending’ throughout this letter, we are only referring to these portfolios.
+Previously we have sent different letters to firms in each portfolio. We note the number of similarities in
+products, consumer base and potential harms posed. We have therefore chosen to assess these three
+portfolios as a group to share a market-level view with you through this letter.
+We want to support a thriving and innovative Consumer Lending market, where consumers have access to
+credit which is affordable for them. We seek to support the growth of an affordable and safe credit market
+through increased firm and trade body engagement, to share and encourage better practice, and
+supporting innovation through steps such as the Regulatory Sandbox, Innovation Pathways and
+TechSprints. For firms which embrace change and innovation, it is important they do so safely to identify
+and manage the risks. The market works well when we see firms lending affordably and sustainably,
+mitigating the risk of poor consumer outcomes, and providing appropriate assistance to consumers facing
+financial hardship.
+However, too often we find significant failings. For example, over the last two years we have taken
+supervisory action against firms where we have seen:
+• Inadequate creditworthiness assessments
+• Firms relying on relending to sustain business models
+• Firms providing products that are designed to promote persistent use
+• Inadequate support and forbearance options offered for consumers in financial difficulty
+• Ineffective complaints management processes
+• Firms failing to meet redress liabilities as they fall due.
+This letter sets out our updated view on the key risks of harm we believe Consumer Lending firms may pose
+to their consumers and the markets in which they operate. This will shape our focus and engagement with
+the Consumer Lending market over the next two years.
+
+You should discuss this letter with your firm’s Board or Governing Body and be able to demonstrate the
+steps you have taken to address the risks covered in this letter.
+The Consumer Lending Market
+Consumer Lending firms vary significantly in size, business model and product offering. However, a growing
+number of consumers within these markets share similar characteristics; for example, they may be
+financially vulnerable and therefore more likely to be affected by cost of living pressures, higher interest
+and inflation rates. As the economic situation evolves and consumers’ personal circumstances change, they
+may also need to access different financial products.
+Since we last wrote to you in 2022, we have seen further change in the Consumer Lending market. There
+has been a significant contraction within high-cost lending since 2019, which has continued since 2022, but
+at a slower rate. Whilst supply of high-cost credit has reduced, overall demand for consumer credit has
+increased. We have seen growth in use of pawnbrokers with new lending up by £100m since 2019 and
+credit card borrowing has started to grow post pandemic. Although the number of credit union firms have
+decreased, we have seen member numbers grow and new lending increase by £500m since 2021.
+Whilst not at pre-pandemic levels, borrowing is increasing with total lending in the Consumer Lending
+market having grown by £6.5bn from £112bn to £118.5bn between June 2021 and June 2023. At the same
+time, consumers are experiencing higher annual interest rates on credit card and personal loans, which will
+have an impact on existing repayments and the affordability of any future credit. We expect demand for
+credit to continue to rise at a time where consumers may already be struggling with other financial
+pressures.
+Our Priorities
+We want to support a sustainable and effective Consumer Lending market in which consumers who can
+afford to borrow, have access to credit that meets their needs. Firms offering credit must do so responsibly.
+Our market-wide strategic objective under the Financial Services and Markets Act (FSMA) is to ensure that
+the relevant markets function well. To achieve this, we have three key focus areas:
+• Reducing and preventing serious harm
+• Setting and testing higher standards
+• Promoting competition and positive change
+In conjunction with the above, we have identified our Consumer Lending specific market priority harms
+below, which apply to firms across all three portfolios. Our supervisory programme will focus on these
+harms closely over the next two years.
+Promoting competition and positive change
+1. Access to Affordable Credit
+Access to affordable credit allows consumers to manage their money and deal with short-term or
+unexpected cash flow issues. A well-functioning market provides healthy competition, products and
+
+services that meet consumers’ needs, offers fair value, and supports consumers to achieve their financial
+goals. Within that market, firms need to treat consumers fairly, lend affordably and support consumers in
+difficulty.
+For some consumers, credit will not be the right answer. Access to unaffordable credit is harmful to
+consumers’ financial and personal wellbeing. In instances where prospective consumers are declined credit,
+we expect firms, as set out in the Consumer Duty guidance, to provide other forms of support. Ineffective
+management of declined credit can increase the risk of consumers going to illegal money lenders as they
+may not be aware of alternative options. Our 2022 Financial Lives Survey (FLS) shows that illegal money
+lending is on the rise with at least 200,000 households stating they had borrowed from an illegal lender
+over the prior 12 months.
+Firms should consider ways they can support declined consumers. For example, signposting to a third party
+that provides reliable and relevant information and/or to Money Helper. We have seen instances of good
+practice already, for example credit union firms who have integrated a 'benefits calculator' link on their
+websites, aiming to assist consumers in securing the financial support to which they are entitled.
+Supporting the market to provide access to affordable credit does not mean compromising standards.
+Firms need to comply with our regulatory standards, treat consumers fairly and provide good consumer
+outcomes. Our data shows that the high-cost market has reduced significantly since 2019, down by almost
+£3bn of lending, with more than 250 firms exiting the market. This was driven in part by historic
+unaffordable lending practices and redress liabilities resulting in a number of firm failures, unsustainable
+business models, and reduced availability of funding.
+We continue to work closely with stakeholders including Government, trade bodies and Fair4All Finance to
+jointly seek solutions to help reduce the number of consumers unfairly excluded from affordable credit. We
+will use our convening powers to support access to affordable credit where needed, and continue to
+encourage innovation via the Regulatory Sandbox, Innovation Pathways and TechSprints, and support firms
+at the Authorisations gateway.
+We encourage you to think about what you can do to innovate and provide greater access to affordable
+credit. This could include collaborating with government initiatives such as the No Interest Loan Scheme
+(NILS), offering transparent and competitive interest rates, providing financial education and tools to
+borrowers, implementing flexible repayment options, and leveraging technology to improve consumer
+journeys, streamline processes and reduce costs.
+Reducing and preventing serious harm
+2. Firms must lend responsibly and sustainably
+Many consumers who borrow will display characteristics of vulnerability, low financial resilience, and have
+poor credit histories. They often hold multiple credit products and juggle repayments; sometimes having to
+decide which priority debts to pay when they don’t have enough for all. Our Financial Lives Survey 2022
+identified that 12.9 million adults have low financial resilience and 27.3 million adults showed at least one
+characteristic of vulnerability. Because of continued cost of living pressures, consumer vulnerability is
+increasing and financial resilience decreasing. We anticipate more consumers in the mainstream credit
+
+market will be facing these challenges for the first time, and others may seek to access alternative forms of
+lending, including higher cost credit.
+It is more important than ever to ensure your firm makes sound affordability and credit-worthiness
+assessments. We have taken supervisory action where firms did not have adequate creditworthiness
+assessments in place. We have also acted where firms are driving poor consumer outcomes by relying on
+re-lending to sustain their business models and providing products that are designed to promote persistent
+use of credit, resulting in unsustainable borrowing and financial hardship. We expect firms to agree to
+refinance only where they reasonably believe that it is not contrary to the consumer's best interests to do
+so (CONC 6.7.18R).
+Whilst we have seen some improvements, we remain concerned about sludge practices - harmful practices
+that create unreasonable barriers for consumers. Sludge practices can hinder transparency, put barriers in
+the way of consumers getting the support they need and heighten the risk of consumers disengaging with
+their lender. In some circumstances, friction in the consumer journey can support good outcomes,
+providing valuable safeguards such as additional checks to avoid fraud. We expect firms to apply judgement
+and be able to distinguish between positive frictions or nudges that support good outcomes and harmful
+frictions that create unreasonable barriers.
+More firms are using artificial intelligence and open banking for lending decisions, and we expect to see a
+further increase in the use of innovative technology as it evolves. Firms need to test the effectiveness of
+these models, including benefits and risks, and ensure responsible lending practices remain at the forefront
+of any drives for improved consumer journeys and efficiency savings.
+You have an obligation to ensure lending and re-lending is done affordably, responsibly and is sustainable
+over time to support good consumer outcomes. We expect you to act in good faith, prevent foreseeable
+harm, and support consumers with their financial objectives, as outlined under the Consumer Duty cross-
+cutting rules. We will continue to intervene where firms are not meeting these standards.
+3. Firms must ensure that the price paid for a product or service is reasonable compared to the overall
+benefits
+Price and fair value is a key outcome of the Consumer Duty. We expect firms in all Consumer Lending
+portfolios to demonstrate how their products and services offer fair value to consumers.
+We understand that the credit risk of lending to certain cohorts of consumers is greater, and this may be
+reflected in higher product prices. However, we would not expect firms to capitalise by increasing prices
+unfairly and offering products that do not provide fair value.
+We have carried out workshops with trade bodies across the portfolios to unpack how firms are applying
+price and fair value to their business models and have shared examples of best practice. Firms will need to
+make their own assessment of their products and services in line with section 7 of the Consumer Duty
+guidance. When firms perform value assessments, they may consider a range of factors to demonstrate
+that the price paid is reasonable compared to the benefits received, for example: costs to the firm, market
+rates and charges for comparable products.
+Given rising interest rates in both the UK credit card and personal loan markets, this is a key focus for us.
+Firms must be able to demonstrate that the price the consumer pays for a product or service, and ongoing
+
+fees and charges over the product lifetime, are reasonable compared to the overall benefits the consumer
+receives.
+Firms offering higher interest loans which are not subject to the high-cost short-term price cap is a
+particular area of interest for us, and firms must be able to demonstrate how the product offers fair value.
+In markets where a price cap does apply, we still expect firms to be challenging themselves around price
+and fair value. For example, a price cap shouldn’t be seen as a maximum rate, and firms are still expected
+under the Duty to assess the value of their products, which could potentially lead to rates that are lower
+than the cap. We expect all firms to regularly review their pricing and fees and we will continue to test how
+firms are meeting this outcome.
+4. Firms must support consumers in financial difficulty
+Cost of living pressures mean that many borrowers will be experiencing higher costs and therefore more
+consumers may need tailored support to manage their debts.
+During our multi-firm work on Borrowers in Financial Difficulty, we saw that many firms were not
+considering or taking sufficient account of consumers’ individual needs or circumstances or providing
+appropriate tailored forbearance. We also identified that improvements could be made to better signpost
+consumers to debt support services. We published details in our November 2022 Key Findings Report which
+led to numerous interventions across the Consumer Lending market, both to prevent future harm and
+remediate where harm had already materialised. Our work has also secured up to £54.4m of redress for
+over 228k consumers across the consumer credit market, as of December 2023. We encourage firms to
+review the report and ensure they are providing effective consumer support for borrowers in financial
+difficulty.
+Even where your firm is under financial pressure, you must ensure your operations and processes give
+consumers the support and service they need. For example, firms should ensure that: staff are adequately
+trained to manage calls, there are appropriate forbearance options to support consumer needs and
+communications are clear. Firms should also consider the Tailored Support Guidance (TSG) when
+supporting consumers in financial difficulty. We propose to move these existing protections into our
+Handbook which can be found under the ‘Policy changes’ section of this letter. With inflation and cost of
+living pressures remaining high, we will continue to closely monitor how firms are supporting their
+consumers.
+5. Firms must handle complaints and redress requirements effectively
+Where firms manage their complaints poorly and do not identify learnings, we have seen in the high-cost
+market, this has led to large redress bills and some firm failings. More positively, we have also seen some
+firms embrace changes to improve their complaints handling processes, provide appropriate remediation
+to consumers and put in place practices going forward to operate compliantly and profitably, with
+improved Financial Ombudsman Service uphold rates as a result.
+Whilst we have seen examples of improvements in this area, we remain concerned, and we expect to see
+more widespread improvements in how firms handle complaints. We expect you to regularly monitor
+outcomes and where systemic issues are identified, to notify us. We expect you to take reasonable steps to
+
+resolve the matter and consider whether remedial action is necessary, such as undertaking a review of
+historic lending and change firm practices dependent on the root cause of the complaints.
+We are currently progressing a complaints multi-firm review involving a small number of high-cost lenders.
+Preliminary findings have identified areas where improvements can still be made, and processes
+strengthened. We will share our findings with the firms involved in due course.
+The Consumer Duty consumer support outcome (chapter 9), sets overarching guidance in relation to the
+support firms should provide their consumers. You should read this in conjunction with other rules that
+cover specific elements of servicing consumers, such as our Dispute resolution: Complaints (DISP) rules.
+6. Firms must have appropriate systems and controls in place to mitigate risks of Financial Crime
+In current market conditions, illegal money lending and domestic financial abuse are likely to be growing
+risks in this market.
+Illegal Money Lending
+Our Financial Lives Survey (FLS) 2022 data shows that 0.5% (0.2m) of all UK adults had borrowed from an
+unlicensed money lender or another informal lender (i.e., an illegal money lender) in the 12 months up to
+May 2022, and this is a growing issue.
+We want firms across the Consumer Lending market to be better at spotting signs of financial crime, so
+interventions can happen earlier to prevent foreseeable harm. If a consumer indicates they have loans
+from someone they know (such as friends or family) we encourage firms to probe this sensitively and
+appropriately and consider referring to the UK Illegal Money Lending Teams (IMLTs).
+The IMLTs offer free, bespoke training materials, and support, for firms likely to encounter instances of
+illegal money lending. The training helps firms’ staff understand how loan sharks operate, who is at risk of
+being exploited, and where victims can go for help. We encourage you to explore this.
+We are committed to working with industry and IMLTs to help tackle illegal money lending.
+Domestic Financial Abuse
+We have been looking into how domestic financial abuse manifests in the use of financial services products,
+particularly noting heightened risks because of cost of living pressures. We want victim-survivors of
+financial abuse to receive fair and consistent treatment from firms, so that they can start rebuilding their
+financial wellbeing.
+Consumers who have been coerced into taking out unsecured loans, including credit cards and personal
+loans, by an abusive partner may feel they have limited choice about entering into such an agreement at
+the point of borrowing, or the loan may be taken out in their name without their knowledge or consent.
+We encourage firms to be alert to the possibility of coercion to reduce foreseeable harm, and when a
+report is made, to treat the victim-survivor appropriately, so they do not experience further avoidable
+harm. This may include how firms treat repayment of any debts and how they are recorded.
+
+We will continue to work with HM Treasury and industry to understand how firms are identifying and
+managing harm in this area. We encourage firms to consider how you can support victim-survivors and
+whether you need to do more to educate your staff and/or update processes.
+7. Firms must have robust governance practices, ensuring effective oversight and risk management
+Firms must have robust governance practices guaranteeing effective oversight and rigorous risk
+management protocols to identify, monitor and manage operational risks. Firms’ culture and governance
+should drive good behaviours and produce fair outcomes that benefit consumers and markets. We have
+identified poor governance and inadequate senior manager oversight as a root cause behind several of the
+drivers of harm.
+Through our regular firm engagement, including on-site visits to firms, we have observed instances of
+deficient oversight, ineffective governance structures, and vulnerabilities in systems and controls. In some
+cases, this has led to firm failures. These issues are prevalent across the Consumer Lending market but are
+particularly acute in parts of the credit union and high-cost portfolios.
+Firms are reminded of their responsibilities under the Senior Managers and Certification Regime (SM&CR).
+The SM&CR aims to reduce harm to consumers and strengthen market integrity by creating a system that
+enables firms and regulators to hold senior individuals to account. For example, under the Consumer Duty
+we will be holding firms – including their senior managers and boards – accountable for delivering good
+outcomes for consumers. We have set an expectation that firms appoint a Consumer Duty champion at
+board (or equivalent governing body) level, to ensure the Duty is being discussed regularly, outcomes are
+tested and challenged appropriately, and that there is ongoing monitoring on how your firm is delivering
+the Duty. We expect to see senior leaders in firms driving the changes needed to meet the Duty standards.
+Given market conditions, we are aware that there is an additional strain for some firms to attract and retain
+new Board members and Directors. For credit unions in particular, we have seen this result in further
+rationalisation and an increase in Transfers of Engagement. Boards should proactively plan ahead, including
+succession planning, as this supports effective governance which is fundamental to the viability of the
+business and delivering good consumer outcomes.
+We have also seen recent examples where firms have failed to implement effective monitoring and
+oversight of third-party providers, resulting in the risk of consumer harm not being effectively mitigated.
+Our Operational Resilience Policy (PS21/3) came into force on 31 March 2022. Whilst the rules may not be
+applicable to all firms, we encourage firms to refer to the guidance and key learnings, to avoid operational
+disruption and to ensure third-party relationships are managed closely and effectively.
+As part of firms’ governance and oversight, strong cyber resilience is a top priority for us, the Bank of
+England, and the Prudential Regulation Authority. Disruption from cyber-attacks can impact financial
+stability, potentially causing foreseeable harm to consumers, other market participants and market
+confidence. Firms should read the CBEST thematic and embed the findings into their cyber strategies.
+We want Boards and senior management in firms to create a healthy firm culture, with consumer
+outcomes at the heart of their business. In doing so, firms should have proper regard to Environmental,
+Social and Governance (ESG) strategy, improving diversity and inclusion (D&I), and making sure there is no
+
+place for non-financial misconduct. Our D&I consultation paper proposes new rules and guidance to help
+ensure firms can take decisive and appropriate action against discrimination, bullying and sexual
+harassment.
+Setting and testing higher standards
+The Consumer Duty
+The Consumer Duty came into force for open products on 31 July 2023. We expect you to have
+implemented and embedded the Duty for open products and services and be preparing to apply the Duty
+to your closed books. We have seen many firms make positive changes to align with the Duty, for example,
+where vulnerable consumers are handled by dedicated, trained staff, and where firms have made changes
+to their website marketing to improve the consumer journey. However, we also continue to see examples
+where firms need to do more.
+The Consumer Duty is not a once and done exercise; it’s an ongoing commitment to good consumer
+outcomes. You should be monitoring data and other sources of information to ensure your firm is
+delivering good consumer outcomes across different consumer groups. We will continue to engage and
+support firms on what is required, alongside assessing how effectively you have embedded the Duty.
+Where we discover poor behaviours and a lack of regard for the Consumer Duty, we will prioritise the most
+serious breaches and act swiftly and assertively. In these instances, you can expect us to take robust action,
+such as interventions or disciplinary sanctions.
+Under the Duty, you are required to carry out an annual assessment of whether your firm is delivering good
+outcomes for consumers and report this to your Board or Governing Body. We may ask to see your firm’s
+Board report. Ongoing and effective outcomes monitoring is an essential input for the Board report and
+firms should ensure there is a clear audit trail of key decisions relating to the Duty. You will need to
+evidence the outcomes you are delivering for consumers, including groups of consumers such as those in
+vulnerable circumstances, and the actions you are taking to address any deficiencies.
+From 31 July 2024, the Duty comes into effect for closed products and services. A closed product or service
+is one where (i) there are existing customers who took out contracts before 31 July 2023 and (ii) it has not
+been marketed or distributed to new customers, or open for renewal by existing customers, on or after 31
+July 2023. Firms are expected to review their closed products and services against the higher standards of
+the Duty. As these products are not on sale, you do not need to identify a target market or develop a
+distribution strategy. You are however required to ensure you meet the requirements of the Duty,
+outcomes, and cross cutting rules.
+There will be further communications around our expectations on closed books in the run up to
+implementation. Existing guidance can already be found under chapter 3 of FG22/5. We expect you to be
+considering what this means for your firm now.
+Policy changes
+In July 2023, the Government confirmed its intention to reform the Consumer Credit Act 1974 to ensure it
+is fit for purpose. It is likely to involve moving many provisions from the Act into the FCA Handbook. We are
+keen to ensure consumer credit regulation supports a well-functioning and competitive market, whilst
+
+maintaining the appropriate degree of consumer protection. We expect the Government to consult on
+more detailed policy proposals this year. We will work closely with the Government and industry on this.
+In May 2023, we published our consultation paper (CP23/13), on strengthening protections for consumers
+in financial difficulty, moving aspects of the Tailored Support Guidance (TSG) for Consumer Credit and
+Mortgages into our Handbook on a permanent basis. We also proposed targeted additional changes to
+support consumers in financial difficulty. These proposals reinforce our expectation that firms put
+consumers’ needs first and support firms acting to deliver good outcomes required under our Consumer
+Duty. We propose to bring the rules into force in 2024 and to withdraw the TSG at the same time.
+We will also begin a review of our price cap for high-cost short-term credit (HCSTC). This will be the first
+review of our HCSTC rules since 2017, where we found that the cap, introduced in 2015, had resulted in
+cheaper loans, better affordability assessments, and fewer consumers experiencing debt problems.
+In Autumn 2023 we consulted on the proposed introduction of Product Sales Data returns for consumer
+credit agreements. These returns would provide agreement level data on all consumer credit agreements
+and enable us to take a data led approach to the way we supervise the consumer credit sector enabling us
+to better prioritise our work and be more targeted with our interventions, reducing harm to consumers.
+We expect to publish a policy statement on these returns shortly and are working through the feedback we
+have received before we finalise our rules. Further communications to firms in scope of this return will be
+issued over the course of the implementation period.
+Specifically for credit unions, the Financial Services and Markets Act 2023 was granted Royal Assent and
+came into force on 29 August 2023. As a result of these changes, credit unions in Great Britain can now
+apply to offer their consumers hire purchase agreements, conditional sale agreements, and insurance
+distribution services. In December 2023, we published our quarterly consultation (CP23/25) on
+consequential amendments to the Credit Unions sourcebook (CREDS) to clarify when and how our rules
+would apply to credit unions who elect to offer these newly permitted products. Our proposals, which are
+expected to come into force in Spring 2024, support financial inclusion and access to affordable credit while
+ensuring consumers are sufficiently protected.
+Offering new products can potentially present risks to consumers, as well as benefits. Clear responsibility
+for new products, and accountability through the Senior Manager Regime, is a priority to ensure good
+outcomes for, and fair treatment of, consumers. Where firms are looking to introduce new products,
+please see here to assess what action you may need to take. We expect firms to have given due
+consideration to the risks associated with the product, have a strong understanding and knowledge and be
+able to demonstrate and explain how you will meet your regulatory obligations as part of any application.
+Action for firms
+You are responsible for ensuring that your firm meets our requirements, including the obligations and
+expectations set out above. A significant part of our supervisory activity over the next two years will be to
+test firms against our expectations.
+We will continue to use data to identify outliers and measure market outcomes. We expect firms to co-
+operate with our data requests by providing accurate and timely data submissions which provide vital
+information to support our regulatory oversight of the Consumer Lending market. We do note that these
+
+requests can be time-consuming for firms, and we will continue to look to ensure any requests sent out are
+proportionate.
+We also continue to see examples of the Financial Services Register not being kept up to date, which can
+hinder consumers being able to contact appropriate people in a timely manner. Firms should consistently
+update and maintain this information.
+You are not required to respond to this letter; however, you should consider how it applies to your
+business and act as necessary, including discussing this letter with fellow Directors and/or Board members
+and agreeing actions. You should be able to explain what you did in response to this letter if asked by an
+FCA supervisor.
+Contact
+Please contact us on 0300 500 0597. This is the primary point of contact for your firm’s day to-day
+interactions with the FCA, and further details of how we can be reached are on our website. You can also
+email us at firm.queries@fca.org.uk.
+However, there may be times when your firm faces urgent issues of strategic importance. If this happens,
+please contact Martha Stokes, Consumer Lending Head of Department, on 0207 066 0894 or
+Martha.Stokes@fca.org.uk.
+We look forward to working with you all to continue to improve standards, access, and consumer
+outcomes.
+Yours sincerely,
+Roma Pearson
+Director, Consumer Finance
+Supervision, Policy & Competition Division

@@ -1,0 +1,121 @@
+Investor BulletIn
+Interest rate risk —
+When Interest rates Go up,
+Prices of Fixed-rate Bonds Fall
+The SEC’s Office of Investor Education and Advocacy is issuing this Investor Bulletin to make investors aware that market
+interest rates and bond prices move in opposite directions—for example, when market interest rates go up, prices of fixed-rate
+bonds fall.
+You may have noticed articles in the media about investors “chasing yield,” the so-called “bond bubble,” or predictions
+about declines in bond prices. some of these warnings about a drop in bond prices relate to the potential for a rise in
+interest rates. Interest rate risk is common to all bonds, particularly bonds with a fixed rate coupon, even u.s. treasury
+bonds. (Many bonds pay a fixed rate of interest throughout their term; interest payments are called coupon payments,
+and the interest rate is called the coupon rate.)
+the purpose of this Investor Bulletin is to provide investors with a better understanding of the relationship among
+market interest rates, bond prices, and yield to maturity of treasury bonds, in particular, although many of the
+concepts discussed below generally apply to other types of bonds as well. this Investor Bulletin is a companion piece to
+our Investor Bulletins on Corporate Bonds, High-Yield Bonds, and Municipal Bonds. For a basic explanation of how
+bonds operate and their terminology, please see our Investor Bulletin on Corporate Bonds.
+The Effect of Market Interest Rates on Bond Prices and Yield
+A fundamental principle of bond investing is that market interest rates and bond prices generally move in opposite
+directions. When market interest rates rise, prices of fixed-rate bonds fall. this phenomenon is known as interest
+rate risk.
+Investor Assistance (800) 732-0330 www.investor.gov
+
+A seesaw, such as the one pictured below, can help you visualize the relationship between market interest rates and
+bond prices. Imagine that one end of the seesaw represents the market interest rate and the other end represents the
+price of a fixed-rate bond.
+Market Interest Rates and Prices of Fixed-Rate Bonds Move in Opposite Directions
+Higher market interest rates  lower fixed-rate bond prices
+Lower market interest rates  higher fixed-rate bond prices
+A bond’s yield to maturity shows how much an investor’s money will earn if the bond is held until it matures. For
+example, as the table below illustrates, let’s say a treasury bond offers a 3% coupon rate, and a year later market interest
+rates fall to 2%. The bond will still pay a 3% coupon rate, making it more valuable than new bonds paying just a 2%
+coupon rate. If you sell the 3% bond before it matures, you will probably find that its price is higher than it was a year
+ago. Along with the rise in price, however, the yield to maturity of the bond will go down for anyone who buys the
+bond at the new higher price.
+EXAMPLE 1: If Market Interest Rates Decrease by One Percent
+Financial Term Today One Year Later ↓
+Market Interest Rate 3% 2%
+Coupon Rate (semi-annual payments) 3% 3%
+Face Value $1,000 $1,000
+Maturity 10 years 9 years remaining
+Price $1,000 $1,082
+Yield to Maturity 3% 2%
+Lower market interest rates  higher fixed-rate bond prices  lower fixed-rate bond yields
+Investor Assistance (800) 732-0330 www.investor.gov
+2
+
+now suppose market interest rates rise from 3% to 4%, as the table below illustrates. If you sell the 3% bond, it will
+be competing with new treasury bonds that offer a 4% coupon rate. The price of the 3% bond may be more likely
+to fall. The yield to maturity, however, will rise as the price falls.
+EXAMPLE 2: If Market Interest Rates Increase by One Percent
+Financial Term Today One Year Later ↑
+Market Interest Rate 3% 4%
+Coupon Rate (semi-annual payments) 3% 3%
+Face Value $1,000 $1,000
+Maturity 10 years 9 years remaining
+Price $1,000 $925
+Yield to Maturity 3% 4%
+Higher market interest rates  lower fixed-rate bond prices  higher fixed-rate bond yields
+For a more detailed explanation of yield to maturity, including additional examples, please see our Investor Bulletin
+on Corporate Bonds.
+The Effect of Coupon Rates on Interest Rate Risk
+Interest rate risk is common to all bonds, even u.s. treasury bonds. A bond’s maturity and coupon rate generally
+affect how much its price will change as a result of changes in market interest rates.
+If two bonds offer different coupon rates while all of their other characteristics (e.g., maturity and credit quality) are the
+same, the bond with the lower coupon rate generally will experience a greater decrease in value as market interest rates
+rise. Bonds offering lower coupon rates generally will have higher interest rate risk than similar bonds that offer higher
+coupon rates.
+Lower fixed-rate bond coupon rates  higher interest rate risk
+Higher fixed-rate bond coupon rates  lower interest rate risk
+For example, imagine one bond that has a coupon rate of 2% while another bond has a coupon rate of 4%. All other
+features of the two bonds—when they mature, their level of credit risk, and so on—are the same. If market interest
+rates rise, then the price of the bond with the 2% coupon rate will fall more than that of the bond with the 4%
+coupon rate.
+remember:
+Lower market interest rates  higher fixed-rate bond prices  lower fixed-rate bond yields
+ higher interest rate risk to rising market interest rates
+Investor Assistance (800) 732-0330 www.investor.gov
+3
+
+Because of this relationship, it is particularly important for investors to consider interest rate risk when they
+purchase bonds in a low-interest rate environment.
+The Effect of Maturity on Interest Rate Risk and Coupon Rates
+A bond’s maturity is the specific date in the future at which the face value of the bond will be repaid to the investor.
+A bond may mature in a few months or in a few years. Maturity can also affect interest rate risk. The longer the bond’s
+maturity, the greater the risk that the bond’s value could be impacted by changing interest rates prior to maturity,
+which may have a negative effect on the price of the bond. Therefore, bonds with longer maturities generally have
+higher interest rate risk than similar bonds with shorter maturities.
+Longer maturity  higher interest rate risk
+Shorter maturity  lower interest rate risk
+to compensate investors for this interest rate risk, long-term bonds generally offer higher coupon rates than short-term
+bonds of the same credit quality.
+Longer maturity  higher interest rate risk  higher coupon rate
+Shorter maturity  lower interest rate risk  lower coupon rate
+If you intend to hold a bond to maturity, the day-to-day fluctuations in the bond’s price may not be as important to
+you. The bond’s price may change, but you will be paid the stated interest rate, as well as the face value of the bond,
+upon maturity. on the other hand, instead of holding the bond to maturity, you might be able to sell the bond and
+reinvest the proceeds into another bond that pays a higher coupon rate.
+All Bonds are Subject to Interest Rate Risk—Even If the Bonds Are Insured
+or Government Guaranteed
+The seesaw effect between interest rates and bond prices applies to all bonds, even to those that are insured or
+guaranteed by the u.s. government. When the u.s. government guarantees a bond, it guarantees that it will make
+interest payments on the bond on time and that it will pay the principal in full when the bond matures. There is a
+misconception that, if a bond is insured or is a u.s. government obligation, the bond will not lose value. In fact, the
+U.S. government does not guarantee the market price or value of the bond if you sell the bond before it matures.
+This is because the market price or value of the bond can change over time based on several factors, including market
+interest rates.
+Investor Assistance (800) 732-0330 www.investor.gov
+4
+
+Additional Information
+n FInrA Investor Alert: Duration—What an Interest rate Hike Could Do to Your Bond Portfolio
+n seC Investor Bulletin: What Are Corporate Bonds?
+n seC Investor Bulletin: What Are High-Yield Corporate Bonds?
+n seC Investor Bulletin: Municipal Bonds
+n seC Investor Bulletin: Municipal Bonds: understanding Credit risk
+The Office of Investor Education and Advocacy has provided this information as a service to investors.
+It is neither a legal interpretation nor a statement of SEC policy. If you have questions concerning the
+meaning or application of a particular law or rule, please consult with an attorney who specializes in
+securities law.
+SEC Pub. No. 151 (6/13)
