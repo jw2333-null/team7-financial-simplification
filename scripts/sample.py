@@ -1,5 +1,14 @@
 """
-sample.py — Stratified sampling from filtered candidates to build the final dataset.
+sample.py — Randomly sample snippets from filtered_candidates.csv for annotation.
+
+Sources:
+  Source A: financial_institution/ (Bank of Scotland, HSBC, Barclaycard, Nationwide)
+  Source B: regulatory_guidance/   (FCA, SEC, CFPB)
+
+Targets:
+  ~50 from Source A, ~45 from Source B
+  Max 15 snippets per individual document
+  Total: 80-100 snippets, random seed 42
 
 Usage:
     python scripts/sample.py
@@ -8,98 +17,117 @@ Input:  data/processed/filtered_candidates.csv
 Output: data/final/dataset.csv
 """
 
-import pandas as pd
 import os
+import pandas as pd
 
-INPUT = "data/processed/filtered_candidates.csv"
-OUTPUT = "data/final/dataset.csv"
-TARGET_TOTAL = 95          # Aim for 80-100
-TARGET_PER_FAMILY = 47     # Roughly balanced
-MAX_PER_DOC = 15           # No single document dominates
+INPUT_FILE  = 'data/processed/filtered_candidates.csv'
+OUTPUT_FILE = 'data/final/dataset.csv'
+RANDOM_SEED = 42
+
+TARGET_SOURCE_A = 50
+TARGET_SOURCE_B = 45
+MAX_PER_DOC     = 15
+
+# Empty columns added ready for annotation
+ANNOTATION_COLS = [
+    'text_simplified_reference',
+    'annotator_id',
+    'confidence',
+    'notes',
+    'jargon_terms',
+]
+
+
+def sample_with_cap(df, target, max_per_doc):
+    """
+    Sample up to `target` rows from df,
+    with at most `max_per_doc` rows per source document.
+    """
+    # Extract doc filename from source_file (handles both / and \ separators)
+    doc_names = df['source_file'].str.replace('\\', '/', regex=False).str.split('/').str[-1]
+
+    capped = (
+        df.assign(_doc=doc_names)
+          .groupby('_doc', group_keys=False)
+          .apply(lambda g: g.sample(n=min(len(g), max_per_doc), random_state=RANDOM_SEED),
+                 include_groups=False)
+          .reset_index(drop=True)
+    )
+
+    if len(capped) > target:
+        capped = capped.sample(n=target, random_state=RANDOM_SEED)
+
+    return capped
+
 
 def main():
-    df = pd.read_csv(INPUT)
-    
-    sampled = []
-    
-    for family in ["financial_institution", "regulatory_guidance"]:
-        pool = df[df["source_family"] == family].copy()
-        
-        # Ensure no document contributes more than MAX_PER_DOC
-        doc_counts = pool.groupby("document_title").size()
-        
-        family_sample = []
-        for doc_title, group in pool.groupby("document_title"):
-            n = min(len(group), MAX_PER_DOC)
-            # Prioritise diverse snippets
-            group = group.sort_values(
-                by=["has_number", "has_condition", "has_warning", "complex_syntax"],
-                ascending=False
-            )
-            family_sample.append(group.head(n))
-        
-        family_df = pd.concat(family_sample)
-        
-        # If we have more than target, sample down
-        if len(family_df) > TARGET_PER_FAMILY:
-            family_df = family_df.sample(n=TARGET_PER_FAMILY, random_state=42)
-        
-        sampled.append(family_df)
-    
-    result = pd.concat(sampled).reset_index(drop=True)
-    
-    # Assign sample IDs
-    fin_count = 0
-    reg_count = 0
-    ids = []
-    for _, row in result.iterrows():
-        if row["source_family"] == "financial_institution":
-            fin_count += 1
-            ids.append(f"FIN_{fin_count:03d}")
-        else:
-            reg_count += 1
-            ids.append(f"REG_{reg_count:03d}")
-    
-    result.insert(0, "sample_id", ids)
-    
-    # Add empty columns for annotation
-    result["unit_type"] = "sentence"
-    result["text_original"] = result["sentence_text"]
-    result["text_simplified_reference"] = ""
-    result["jargon_terms"] = ""
-    result["fkgl_original"] = result["fkgl"]
-    result["fkgl_simplified"] = ""
-    result["word_count_original"] = result["word_count"]
-    result["word_count_simplified"] = ""
-    result["annotator_id"] = ""
-    result["second_annotator_id"] = ""
-    result["confidence"] = ""
-    result["rejected"] = "FALSE"
-    result["rejection_reason"] = ""
-    result["notes"] = ""
-    
-    # Select final columns in schema order
-    final_cols = [
-        "sample_id", "source_family", "source_name", "document_title",
-        "snippet_id", "unit_type", "text_original", "text_simplified_reference",
-        "jargon_terms", "has_number", "has_condition", "has_warning",
-        "has_negation_or_modality", "complex_syntax",
-        "fkgl_original", "fkgl_simplified",
-        "word_count_original", "word_count_simplified",
-        "annotator_id", "second_annotator_id",
-        "confidence", "rejected", "rejection_reason", "notes"
-    ]
-    
-    os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-    result[final_cols].to_csv(OUTPUT, index=False)
-    
-    print(f"Dataset created: {len(result)} snippets")
-    print(f"  FIN: {fin_count}, REG: {reg_count}")
-    print(f"  Diversity tag coverage:")
-    for tag in ["has_number", "has_condition", "has_warning", "has_negation_or_modality", "complex_syntax"]:
-        pct = result[tag].sum() / len(result) * 100
-        print(f"    {tag}: {result[tag].sum()} ({pct:.0f}%)")
-    print(f"Saved to {OUTPUT}")
+    # ------------------------------------------------------------------ #
+    # 1. Load and inspect input                                            #
+    # ------------------------------------------------------------------ #
+    if not os.path.exists(INPUT_FILE):
+        print(f"Error: '{INPUT_FILE}' not found. "
+              "Run preprocess.py first to generate filtered candidates.")
+        return
 
-if __name__ == "__main__":
+    df = pd.read_csv(INPUT_FILE)
+
+    print(f"Loaded {len(df)} rows from {INPUT_FILE}")
+    print(f"\nColumn names:\n  {list(df.columns)}\n")
+    print("First 3 rows:")
+    print(df.head(3).to_string())
+    print()
+
+    # ------------------------------------------------------------------ #
+    # 2. Split into Source A and Source B by source_file prefix           #
+    # ------------------------------------------------------------------ #
+    # Normalise separators for reliable prefix matching
+    normalised = df['source_file'].str.replace('\\', '/', regex=False)
+
+    source_a = df[normalised.str.startswith('financial_institution/')].copy()
+    source_b = df[normalised.str.startswith('regulatory_guidance/')].copy()
+
+    print(f"Source A candidates (financial_institution): {len(source_a)}")
+    print(f"Source B candidates (regulatory_guidance):   {len(source_b)}\n")
+
+    # ------------------------------------------------------------------ #
+    # 3. Sample                                                            #
+    # ------------------------------------------------------------------ #
+    sampled_a = sample_with_cap(source_a, TARGET_SOURCE_A, MAX_PER_DOC)
+    sampled_b = sample_with_cap(source_b, TARGET_SOURCE_B, MAX_PER_DOC)
+
+    result = (
+        pd.concat([sampled_a, sampled_b])
+          .sample(frac=1, random_state=RANDOM_SEED)   # shuffle final order
+          .reset_index(drop=True)
+    )
+
+    # ------------------------------------------------------------------ #
+    # 4. Add empty annotation columns                                      #
+    # ------------------------------------------------------------------ #
+    for col in ANNOTATION_COLS:
+        result[col] = ''
+
+    # ------------------------------------------------------------------ #
+    # 5. Write output                                                      #
+    # ------------------------------------------------------------------ #
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    result.to_csv(OUTPUT_FILE, index=False)
+
+    # ------------------------------------------------------------------ #
+    # 6. Summary                                                           #
+    # ------------------------------------------------------------------ #
+    doc_col = result['source_file'].str.replace('\\', '/', regex=False).str.split('/').str[-1]
+
+    print("=== Sampling Summary ===")
+    print(f"Total rows sampled : {len(result)}")
+    print(f"  Source A (financial_institution) : {len(sampled_a)}")
+    print(f"  Source B (regulatory_guidance)   : {len(sampled_b)}")
+    print()
+    print("Per document:")
+    for doc, count in doc_col.value_counts().sort_index().items():
+        print(f"  {doc}: {count}")
+    print(f"\nOutput written to: {OUTPUT_FILE}")
+
+
+if __name__ == '__main__':
     main()
