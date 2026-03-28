@@ -1,136 +1,104 @@
 # Automatic Simplification of Financial Jargon in Consumer-Facing Documents
 
-**MSIN0221 Natural Language Processing — Group Assignment**  
+**MSIN0221 Natural Language Processing — Group Assignment**
 **Team 7 | UCL School of Management | 2025/26 Term 2**
 
 ## Research Question
 
 > To what extent can pretrained NLP models simplify consumer-facing financial jargon while preserving the original meaning and key financial content?
 
-## What This Project Does
-
-This project builds a text simplification system for consumer-facing financial documents (credit card agreements, loan terms, mortgage conditions, regulatory guidance). It takes jargon-heavy financial sentences as input and produces clearer, simpler versions as output while preserving all numbers, conditions, warnings, and obligations exactly.
-
 ## Team Members
 
-| Name | Student ID | Primary Responsibility |
-|------|-----------|----------------------|
-| Gianni Chen | 25057622 | |
-| Hanley Ho | 25120620 | |
-| Stephen Leung | 25084380 | |
-| Wing Nok Poon | 24158473 | |
-| Zhengpeng Wang | 25115696 | |
+| Name | Student ID | Contribution |
+|------|-----------|-------------|
+| Gianni Chen | 25057622 | Data preprocessing, dataset curation, gold standard creation |
+| Hanley Ho | 25120620 | Model development, model inference pipeline (FLAN-T5 notebooks) |
+| Stephen Leung | 25084380 | Evaluation, metrics, result validation, BERTScore computation |
+| Stefani Poon | 24158473 | Writing, analysis, discussion, report editing |
+| Zhengpeng Wang | 25115696 | LLM baseline (Gemini API), writing, analysis, visualisation |
 
 ## Repository Structure
 
 ```
 team7-financial-simplification/
 ├── data/
-│   ├── raw/                        # Extracted .txt files from source PDFs
-│   │   ├── financial_institution/  # Bank/building society T&Cs
-│   │   └── regulatory_guidance/    # FCA, SEC, CFPB documents
-│   ├── processed/                  # all_candidates.csv, filtered_candidates.csv
-│   ├── final/                      # dataset.csv, dataset.json (frozen v1.0)
-│   ├── glossary/                   # glossary.csv (30-40 jargon terms)
-│   └── gold/                       # Double-annotated gold-standard subset
-├── scripts/                        # Preprocessing, sampling, evaluation scripts
-│   ├── preprocess.py               # Text extraction → sentence segmentation → filtering
-│   ├── sample.py                   # Stratified sampling → dataset.csv
-│   ├── evaluate.py                 # All automatic metrics (FKGL, similarity, SARI, etc.)
-│   └── error_analysis.py           # Failure categorisation and cross-tabulation
-├── models/                         # Prompting and baseline code
-│   ├── glossary_baseline.py        # Lexical replacement using glossary.csv
-│   ├── generic_prompt.py           # FLAN-T5 with generic simplification prompt
-│   ├── financial_prompt.py         # FLAN-T5 with domain-specific prompt (main system)
-│   └── postprocess.py              # Number preservation + modality shift checks
-├── results/                        # Evaluation outputs, tables, charts
-├── docs/                           # Annotation guidelines, data collection log
-│   ├── annotation_guidelines.md    # Rules for manual simplification
-│   └── data_collection_log.md      # Source URLs, access dates, issues
-├── report/                         # Final report (LaTeX/Jupyter)
-├── presentation/                   # Slides and MP4 recording
-└── README.md
+│   ├── raw/                              # Extracted .txt files from source PDFs
+│   │   ├── financial_institution/        # Bank/building society T&Cs
+│   │   └── regulatory_guidance/          # FCA, SEC, CFPB documents
+│   ├── processed/
+│   │   └── dataset_v2.csv               # 100 sampled snippets with diversity tags
+│   └── final/
+│       ├── dataset_annotation_v3.csv     # Annotated dataset with human references
+│       └── dataset_model_final.csv       # All 4 model outputs + annotations
+├── notebooks/                            # All model inference + evaluation notebooks
+│   ├── notebook_base_generic.ipynb       # FLAN-T5-base generic prompt
+│   ├── notebook_base_financial.ipynb     # FLAN-T5-base financial prompt
+│   ├── notebook_xl_financial.ipynb       # FLAN-T5-XL financial prompt
+│   ├── notebook_llm.ipynb               # Gemini 1.5 Flash (LLM API)
+│   ├── bertscore_calculator.ipynb        # BERTScore F1 computation
+│   └── semantic_similarity_calculator.ipynb # Sentence-transformer similarity
+├── scripts/                              # Preprocessing and evaluation scripts
+│   ├── preprocess.py                     # Text extraction → sentence segmentation
+│   ├── sample.py                         # Stratified sampling → dataset
+│   ├── evaluate.py                       # Automatic metrics
+│   └── error_analysis.py                 # Failure categorisation
+├── models/                               # Baseline and prompting code
+│   ├── generic_prompt.py                 # FLAN-T5 generic prompt
+│   ├── financial_prompt.py               # FLAN-T5 financial prompt
+│   └── postprocess.py                    # Number preservation + modality checks
+├── results/
+│   └── dataset_score.csv                 # Evaluation summary (all metrics)
+├── docs/
+│   ├── annotation_guidelines.md          # Rules for manual simplification
+│   └── data_collection_log.md            # Source URLs and access dates
+├── report/
+│   └── Final_Final_report_polished.docx  # Final report
+├── presentation/                         # Slides and MP4 recording
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
-## Setup
+## Models Tested
 
-### Requirements
+| # | System | Model | Parameters |
+|---|--------|-------|-----------|
+| 1 | Generic prompt | FLAN-T5-base | 250M |
+| 2 | Financial prompt | FLAN-T5-base | 250M |
+| 3 | Financial prompt | FLAN-T5-XL | 3B |
+| 4 | Financial prompt | Gemini 1.5 Flash | LLM (API) |
+
+## Key Results
+
+| Model | FKGL Drop ↑ | Semantic Sim ↑ | SARI ↑ | Modality Shift ↓ |
+|-------|------------|----------------|--------|-----------------|
+| Generic (T5-base) | -0.03 | 0.90 | 39.75 | 1.0% |
+| Financial (T5-base) | -0.09 | 0.95 | 39.56 | 0.0% |
+| Financial (T5-XL) | 0.03 | 0.95 | 38.97 | 0.0% |
+| Financial (Gemini) | **5.45** | 0.79 | **46.33** | 3.0% |
+
+## Data Sources
+
+### Source A: Financial Institution Documents (9 documents)
+Barclaycard, HSBC UK, Bank of Scotland, Nationwide Building Society
+
+### Source B: Regulatory Consumer Guidance (6 documents)
+FCA (UK), SEC (US), CFPB (US)
+
+All sources are publicly available. See `docs/data_collection_log.md` for full URLs.
+
+## Setup
 
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
-### Data Collection
+## Reproducing Results
 
-The source PDFs are **not** stored in this repository (they are too large for Git). To reproduce the dataset:
-
-1. Open each URL listed in `docs/data_collection_log.md` in a browser
-2. Save each PDF to the appropriate folder under `data/raw/`
-3. Extract text using one of:
-   - `pdftotext file.pdf file.txt`
-   - The PyPDF2 script in `scripts/preprocess.py`
-   - Manual copy-paste from the PDF
-
-### Reproducing Results
-
-```bash
-# Step 1: Preprocess (sentence segmentation, FKGL, filtering, tagging)
-python scripts/preprocess.py
-
-# Step 2: Sample 80-100 snippets
-python scripts/sample.py
-
-# Step 3: Run baselines
-python models/glossary_baseline.py
-python models/generic_prompt.py
-python models/financial_prompt.py
-
-# Step 4: Run post-processing checks
-python models/postprocess.py
-
-# Step 5: Run evaluation
-python scripts/evaluate.py
-
-# Step 6: Run error analysis
-python scripts/error_analysis.py
-```
-
-## Data Sources
-
-### Source A: Financial Institution Documents
-- Barclaycard — Credit card terms and conditions (2 documents)
-- HSBC UK — Credit card T&Cs, personal loan T&Cs, summary box (3 documents)
-- Bank of Scotland — Credit card general T&Cs (1 document)
-- Nationwide Building Society — Savings T&Cs, mortgage conditions, current account T&Cs (3 documents)
-
-### Source B: Regulatory Consumer Guidance
-- FCA (UK) — Consumer lending strategy letter, guide for consumer credit firms (2 documents)
-- SEC (US) — Interest rate risk investor bulletin (1 document)
-- CFPB (US) — Credit card guide, secured vs unsecured loans guide, consumer advisory (3 documents)
-
-All sources are publicly available consumer-facing documents. See `docs/data_collection_log.md` for full URLs and access dates.
-
-## Evaluation Metrics
-
-| # | Metric | What It Measures |
-|---|--------|-----------------|
-| 1 | FKGL (Flesch-Kincaid Grade Level) | Surface readability |
-| 2 | Flesch Reading Ease | Surface readability (second angle) |
-| 3 | Semantic Similarity | Overall meaning preservation |
-| 4 | BERTScore F1 | Fine-grained meaning preservation |
-| 5 | SARI | Simplification quality vs human reference |
-| 6 | Number Preservation Rate | Financial numbers survived intact |
-| 7 | Modality Shift Rate | Certainty of statements unchanged |
-| 8 | Human Clarity (1–5) | Real person finds it understandable |
-| 9 | Human Correctness (1–5) | Real person confirms meaning preserved |
-
-## Version History
-
-- `v0.1` — After pilot annotation (checkpoint)
-- `v1.0` — Final frozen dataset (submitted version)
-
-**v1.0 commit hash:** _(to be filled after freeze)_
+The model notebooks in `notebooks/` are designed to run on Google Colab.
+Upload the relevant CSV and run all cells. Each notebook documents its
+model, prompt, and expected output.
 
 ## Licence
 
@@ -138,4 +106,5 @@ This repository is for UCL coursework submission only. Do not redistribute.
 
 ## Acknowledgements
 
-- AI tools used in an assistive capacity as permitted under UCL's AI policy (Assistive category). See report for full AI usage declaration.
+AI tools used in an assistive capacity as permitted under UCL's AI policy.
+See report for full AI usage declaration.
