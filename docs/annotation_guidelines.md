@@ -12,13 +12,60 @@ Read all guidelines before beginning annotation. **When in doubt, preserve meani
 
 4. **Do not make the text legally weaker or stronger.** If the original uses "may" (possibility), do not change it to "will" (certainty). If the original says "you are responsible for," do not weaken it to "you should try to."
 
-5. **Simplify wording and sentence structure for a non-expert consumer.** Replace jargon with everyday language where a good equivalent exists. Break long sentences into shorter ones. Use active voice where possible. Aim for approximately grade 8–10 reading level (FKGL).
+5. **Simplify wording and sentence structure for a non-expert consumer.** Replace jargon with everyday language where a good equivalent exists. Break long sentences into shorter ones — where possible, split sentences longer than 35 words into two or more shorter sentences. Use active voice where possible. Aim for approximately grade 8–10 reading level (FKGL).
+
+6. **Preserve the grammatical person of the original.** If the original refers to "the borrower" or "the lender" in the third person, do not change it to "you" or "we." Changing person can alter who the obligation applies to and may distort the legal meaning.
+
+7. **Do not add explanations, examples, or context that are not present in the original.** Simplification means rewording, not expanding. If you feel extra context is needed, note it in the notes field instead.
 
 ## Handling Jargon Without a Perfect Equivalent
 
 - If the term has a widely understood short explanation, insert it in parentheses after the term the first time it appears. Example: "APR (the total yearly cost of borrowing, shown as a percentage)."
 - If the term is defined in the glossary, use the glossary as a guide but do not copy it verbatim.
 - If the term cannot be explained briefly without distorting its meaning, keep the original term and note it in the jargon_terms field. A simplification that retains one necessary technical term is better than one that replaces it with an inaccurate paraphrase.
+
+## Parenthetical Explanations
+
+- Keep parenthetical explanations to **10 words or fewer**.
+- If the explanation requires more than 10 words, write it as a separate sentence immediately after, rather than embedding it in parentheses.
+
+  ✓ `"APR (the yearly cost of borrowing, as a percentage)"`
+
+  ✗ `"APR (this stands for Annual Percentage Rate and represents the total yearly cost of borrowing shown as a percentage including all fees and charges)"`
+
+- Do not use multiple parenthetical explanations in the same sentence, as this disrupts readability.
+
+## Common Mistakes to Avoid
+
+- **Do NOT substitute technical terms with inaccurate equivalents.**
+
+  ✗ `"bonds" → "investment certificates"` (factually wrong — these are different financial instruments)
+
+  ✓ `"bonds (debt investments that pay regular interest)"`
+
+- **Do NOT drop numerical thresholds, monetary values, or time limits.**
+
+  ✗ Omitting "less than £1 million" from a regulatory condition
+
+  ✓ Always keep exact figures exactly as written
+
+- **Do NOT shift grammatical person without reason.**
+
+  ✗ `"the lender can report the borrower" → "we can report you"` (changes who the obligation applies to)
+
+  ✓ Keep the same grammatical person as the original
+
+- **Do NOT resolve modality — preserve possibility vs certainty.**
+
+  ✗ `"may be charged" → "will be charged"` (turns a possibility into a certainty)
+
+  ✓ Keep "can", "may", "might", "will" exactly as they appear in the original
+
+- **Do NOT add information not present in the original.**
+
+  ✗ Adding an example, consequence, or explanation that was not in the source text
+
+  ✓ If you feel context is needed, note it in the notes field instead
 
 ## Handling Ambiguity
 
@@ -59,4 +106,4 @@ Why this fails: "May be charged" became "will be charged" (modality shift — tu
 ## Version History
 
 - v1.0 — Initial guidelines (before pilot annotation)
-- _(update this section after any post-pilot revisions, noting what changed and why)_
+- v1.1 — Added Core Principles 6 and 7 (grammatical person, no added information); added Parenthetical Explanations section; added Common Mistakes to Avoid section (after pilot calibration, Phase 4.3)
