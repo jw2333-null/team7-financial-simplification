@@ -37,3 +37,7 @@ desktop.ini
 *.tmp
 *.log
 .claude/
+
+# ──── Coursework deliverables (not for online repo) ────
+report/
+presentation/

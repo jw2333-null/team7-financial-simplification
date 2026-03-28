@@ -37,11 +37,9 @@ team7-financial-simplification/
 │   ├── notebook_llm.ipynb               # Gemini 1.5 Flash (LLM API)
 │   ├── bertscore_calculator.ipynb        # BERTScore F1 computation
 │   └── semantic_similarity_calculator.ipynb # Sentence-transformer similarity
-├── scripts/                              # Preprocessing and evaluation scripts
+├── scripts/                              # Preprocessing and sampling scripts
 │   ├── preprocess.py                     # Text extraction → sentence segmentation
-│   ├── sample.py                         # Stratified sampling → dataset
-│   ├── evaluate.py                       # Automatic metrics
-│   └── error_analysis.py                 # Failure categorisation
+│   └── sample.py                         # Stratified sampling → dataset
 ├── models/                               # Baseline and prompting code
 │   ├── generic_prompt.py                 # FLAN-T5 generic prompt
 │   ├── financial_prompt.py               # FLAN-T5 financial prompt
@@ -51,9 +49,6 @@ team7-financial-simplification/
 ├── docs/
 │   ├── annotation_guidelines.md          # Rules for manual simplification
 │   └── data_collection_log.md            # Source URLs and access dates
-├── report/
-│   └── Final_Final_report_polished.docx  # Final report
-├── presentation/                         # Slides and MP4 recording
 ├── README.md
 ├── requirements.txt
 └── .gitignore
