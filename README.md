@@ -98,8 +98,3 @@ model, prompt, and expected output.
 ## Licence
 
 This repository is for UCL coursework submission only. Do not redistribute.
-
-## Acknowledgements
-
-AI tools used in an assistive capacity as permitted under UCL's AI policy.
-See report for full AI usage declaration.
