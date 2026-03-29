@@ -9,13 +9,13 @@
 
 ## Team Members
 
-| Name | Student ID | Contribution |
-|------|-----------|-------------|
-| Gianni Chen | 25057622 | Data preprocessing, dataset curation, gold standard creation |
-| Hanley Ho | 25120620 | Model development, model inference pipeline (FLAN-T5 notebooks) |
-| Stephen Leung | 25084380 | Evaluation, metrics, result validation, BERTScore computation |
-| Stefani Poon | 24158473 | Writing, analysis, discussion, report editing |
-| Zhengpeng Wang | 25115696 | LLM baseline (Gemini API), writing, analysis, visualisation |
+| Name | Contribution |
+|------|-------------|
+| Gianni Chen | Data preprocessing, dataset curation, gold standard creation |
+| Hanley Ho | Model development, model inference pipeline (FLAN-T5 notebooks) |
+| Stephen Leung | Evaluation, metrics, result validation, BERTScore computation |
+| Stefani Poon | Writing, analysis, discussion, report editing |
+| Zhengpeng Wang | LLM baseline (Gemini API), writing, analysis, visualisation |
 
 ## Repository Structure
 
